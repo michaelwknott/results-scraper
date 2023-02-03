@@ -1,3 +1,15 @@
+"""Scrapes and stores competition names and API ids for FINA results.
+
+API endpoints for the website are avaialble and called directly.
+The following endpoint is called to collect the competition names
+and ids:
+
+"https://api.fina.org/fina/competitions?page=0&pageSize=100"
+
+Competition names and ids will be used to scrape individual competition
+resuls.
+"""
+
 import csv
 import pathlib
 from datetime import datetime
