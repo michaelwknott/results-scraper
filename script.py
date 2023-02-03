@@ -1,8 +1,23 @@
+import csv
+import pathlib
 from datetime import datetime
 from typing import Any
 
 import requests
 from requests import JSONDecodeError, Response
+
+HEADERS = [
+    "comp_id",
+    "comp_name",
+    "year",
+    "month",
+    "date_from",
+    "date_to",
+    "country_code",
+    "city",
+    "comp_type",
+    "disciplines",
+]
 
 
 def get_number_of_pages() -> int:
@@ -106,12 +121,30 @@ def index_nested_dict_key(comp_dict: dict, *args: str) -> str | int | None:
         return None
 
 
+def create_csv(data_list: list[tuple], header: list[str]) -> None:
+    """Takes a list of tuples and converts each tuple to a row in a csv file.
+
+    Args:
+        data_list (list[tuple]): A list of dictionaries containing competition
+        API id, name, year, start date, end date, country code, city, type
+        and disciplines.
+        header (list[str]): A list of strings used as the header row when
+        creating the csv file.
+    """
+    filepath = pathlib.Path.cwd() / "data/fina_all_competition_ids.csv"
+    with open(filepath, "w", newline="") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(header)
+        for item in data_list:
+            writer.writerow(item)
+
+
 # Requests session hook functions
 def check_for_errors(resp, *args, **kwargs):
     resp.raise_for_status()
 
 
-if __name__ == "__main_":
+if __name__ == "__main__":
     session = requests.Session()
     session.hooks["response"] = [check_for_errors]
 
@@ -123,3 +156,5 @@ if __name__ == "__main_":
         comps_metadata_dict = decode_json_response(comps_metadata_response)
         partial_comps_data_list = parse_competitions_metadata(comps_metadata_dict)
         comps_data_list.extend(partial_comps_data_list)
+
+    create_csv(comps_data_list, HEADERS)
