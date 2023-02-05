@@ -6,7 +6,7 @@ script.py scrapes competition metadata including name and id and saves to csv. C
 ## Instructions
 To run the script, utilse the following steps.
 
-Clone to repo:
+Clone the repo:
 
 `git@github.com:michaelwknott/results-scraper.git`
 
