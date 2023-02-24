@@ -32,11 +32,11 @@ HEADERS = [
 
 
 def get_number_of_pages() -> int:
-    """Gets the number of competition pages on the FINA API
+    """Gets the number of pages of competition summary data on the FINA API.
 
     Returns:
-        The number of pages, containing competition metadata, available on the
-        FINA API.
+        The number of pages, containing competition summary data, available
+        on the FINA API.
     """
     url = "https://api.fina.org/fina/competitions?page=0&pageSize=100"
     response = session.get(url)
@@ -48,7 +48,7 @@ def decode_json_response(response: Response) -> dict:
     """Decodes a response object, containing json data, to a python dict.
 
     Args:
-        response: A requests response object fetched from the FINA API.
+        response: A requests Response object fetched from the FINA API.
 
     Returns:
         A Python dictionary containing deserialised json data.
@@ -60,32 +60,31 @@ def decode_json_response(response: Response) -> dict:
         raise
 
 
-def get_competitions_metadata(page_number: int) -> Response:
-    """Gets the metadata for competitions on the given page of the FINA API.
+def get_competitions_summary_data(page_number: int) -> Response:
+    """Gets the summar data for competitions on the given page of the FINA API.
 
     Args:
-        page_number: A number representing a FINA API competitions metadata
+        page_number: A number representing a FINA API competitions summary
         page.
 
     Returns:
-        A requests Response object containing competitions metadata.
+        A requests Response object containing competitions summary data.
     """
     url = f"https://api.fina.org/fina/competitions?page={page_number}&pageSize=100"
     return requests.get(url)
 
 
-def parse_competitions_metadata(comps_meta: dict) -> list[tuple[Any, ...]]:
-    """Parses competitions metadata from the FINA API.
+def parse_competitions_summary_data(comps_summary: dict) -> list[tuple[Any, ...]]:
+    """Parses competitions summary data from the FINA API.
 
     Args:
-        comps_meta: A dictionary containing competition metadata.
+        comps_summary: A dictionary containing competition summary data.
 
     Returns:
-        A list of tuples containing parsed competition metadata including
-        competition name and id.
+        A list of tuples containing parsed competition summary data.
     """
     comps_list: list[tuple[Any, ...]] = []
-    competitions = comps_meta["content"]
+    competitions = comps_summary["content"]
     for competition in competitions:
         comp_id = competition["id"]
         name = competition["name"]
@@ -118,8 +117,9 @@ def index_nested_dict_key(comp_dict: dict, *args: str) -> str | int | None:
     """Catches KeyError when indexing nested dictionary keys.
 
     Args:
-    comp_dict: A dictionary containing an individual competition's
-    metadata.
+    comp_dict: A dictionary containing an individual competition's summary
+    data.
+    args: Nested dictionary keys for the required value.
 
     Returns:
     The value associated with the dictionary key. If a KeyError
@@ -136,11 +136,10 @@ def create_csv(data_list: list[tuple], header: list[str]) -> None:
     """Takes a list of tuples and converts each tuple to a row in a csv file.
 
     Args:
-        data_list (list[tuple]): A list of dictionaries containing competition
-        API id, name, year, start date, end date, country code, city, type
-        and disciplines.
-        header (list[str]): A list of strings used as the header row when
-        creating the csv file.
+        data_list: A list of dictionaries containing competition API id, name,
+        year, start date, end date, country code, city, type and disciplines.
+        header: A list of strings used as the header row when creating the
+        csv file.
     """
     filepath = pathlib.Path.cwd() / "data/fina_all_competition_ids.csv"
     with open(filepath, "w", newline="") as csvfile:
@@ -163,9 +162,11 @@ if __name__ == "__main__":
 
     number_of_pages = get_number_of_pages()
     for page in range(number_of_pages + 1):
-        comps_metadata_response = get_competitions_metadata(page)
-        comps_metadata_dict = decode_json_response(comps_metadata_response)
-        partial_comps_data_list = parse_competitions_metadata(comps_metadata_dict)
+        comps_metadata_response = get_competitions_summary_data(page)
+        comps_summary_data_dict = decode_json_response(comps_metadata_response)
+        partial_comps_data_list = parse_competitions_summary_data(
+            comps_summary_data_dict
+        )
         comps_data_list.extend(partial_comps_data_list)
 
     create_csv(comps_data_list, HEADERS)
