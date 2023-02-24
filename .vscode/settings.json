@@ -7,6 +7,7 @@
         "source.organizeImports": true
     },
     "editor.rulers": [
+        79,
         88,
     ],
     "python.analysis.typeCheckingMode": "basic",
