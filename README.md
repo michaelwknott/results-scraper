@@ -1,7 +1,7 @@
 # results-scraper
 Web scraping scripts for FINA swimming results.
 
-script.py scrapes competition metadata including name and id and saves to csv. Competition name and id will be utilised by future scripts to scrape individual competition results.
+script.py scrapes competition summary data including name and id and saves to csv. Competition name and id will be utilised by future scripts to scrape individual competition results.
 
 ## Instructions
 To run the script, utilse the following steps.
