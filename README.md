@@ -26,6 +26,6 @@ Install dependencies:
 
 `python -m pip install -r requirements.txt`
 
-Run the script:
+Run the competition script to scrape and store competition summary data (id is required to scrape competition results):
 
-`python script.py`
+`python competition.py`
