@@ -1,14 +1,14 @@
-"""Scrapes and parse discipline results for individual swimming
+"""Fetch and parse discipline results for individual swimming
 competitions from the FINA API.
 
-The following endpoint is called to scrape disipline names and ids for
-indivudal competitions:
+The following endpoint is called to fetch disipline names and ids for
+individual competitions:
 
 "https://api.fina.org/fina/competitions/{comp_id}/events"
 
 *{comp_id} should be replaced with the required competition id.
 
-The following endpoint is called to scrape individual disipline results for
+The following endpoint is called to fetch individual disipline results for
 competitions:
 
 "https://api.fina.org/fina/events/{discipline_id}"
@@ -74,7 +74,6 @@ if __name__ == "__main__":
     comp_response = get_individual_competition_summary_data(5)
     comp_data = decode_json_response(comp_response)
     discipline_names_ids = parse_discipline_names_and_ids(comp_data)
-    print(discipline_names_ids)
     discipline_id = discipline_names_ids["Women 50m Freestyle"]
     women_50m_freestyle_response = get_discipline_data(discipline_id)
     women_50m_freestyle_data = decode_json_response(women_50m_freestyle_response)

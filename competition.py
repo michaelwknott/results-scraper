@@ -1,12 +1,12 @@
-"""Scrapes and stores competition names and API ids for FINA results.
+"""Fetch and store competition names and API ids from the FINA API.
 
-The following endpoint is called to collect the competition names
+The following endpoint is called to fetch the competition names
 and ids:
 
 "https://api.fina.org/fina/competitions?page=0&pageSize=100"
 
-Competition names and ids will be used to scrape individual competition
-results.
+Each competition name and id will be used to fetch disipline names and
+ids that took place at the competition.
 """
 
 import csv
