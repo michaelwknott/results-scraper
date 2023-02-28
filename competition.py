@@ -61,7 +61,7 @@ def decode_json_response(response: Response) -> dict:
 
 
 def get_competitions_summary_data(page_number: int) -> Response:
-    """Gets the summar data for competitions on the given page of the FINA API.
+    """Gets the summary data for competitions on the given page of the FINA API.
 
     Args:
         page_number: A number representing a FINA API competitions summary
@@ -162,8 +162,8 @@ if __name__ == "__main__":
 
     number_of_pages = get_number_of_pages()
     for page in range(number_of_pages + 1):
-        comps_metadata_response = get_competitions_summary_data(page)
-        comps_summary_data_dict = decode_json_response(comps_metadata_response)
+        comps_summary_data_response = get_competitions_summary_data(page)
+        comps_summary_data_dict = decode_json_response(comps_summary_data_response)
         partial_comps_data_list = parse_competitions_summary_data(
             comps_summary_data_dict
         )
