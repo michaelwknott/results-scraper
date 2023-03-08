@@ -49,7 +49,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1098,2nd FINA World Championships 1975,1975,7,1975-07-19T05:00:00Z,1975-07-27T05:00:00Z,COL,Cali,World Championships,DV SW SY WP
 1099,1st FINA World Championships 1973,1973,8,1973-08-30T23:00:00Z,1973-09-08T23:00:00Z,YUG,Belgrade,World Championships,DV SW SY WP
 2902,19th FINA World Championships Budapest 2022,2022,6,2022-06-17T23:00:00Z,2022-07-02T23:00:00Z,HUN,Budapest,World Championships,DV SW SY OW WP
-2969,21st FINA World Championships Doha 2024,2024,2,2024-02-01T21:00:00Z,2024-02-17T21:00:00Z,QAT,Doha,World Championships,DV SW SY OW WP HD
+2969,World Aquatics Championships - Doha 2024,2024,2,2024-02-01T21:00:00Z,2024-02-17T21:00:00Z,QAT,Doha,World Championships,DV SW SY OW WP HD
 2,15th FINA World Swimming Championships (25m) 2021,2021,12,2021-12-15T20:00:00Z,2021-12-20T20:00:00Z,UAE,Abu Dhabi,World Swimming Championships (25m),SW
 132,14th FINA World Swimming Championships (25m) 2018,2018,12,2018-12-10T16:00:00Z,2018-12-15T16:00:00Z,CHN,Hangzhou,World Swimming Championships (25m),SW
 239,13th FINA World Swimming Championships (25m) 2016,2016,12,2016-12-06T05:00:00Z,2016-12-11T05:00:00Z,CAN,Windsor,World Swimming Championships (25m),SW
@@ -341,6 +341,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 663,2nd FINA World Junior Swimming Championships 2008,2008,7,2008-07-08T06:00:00Z,2008-07-13T06:00:00Z,MEX,Monterrey,World Junior Swimming Championships,SW
 741,1st FINA World Junior Swimming Championships 2006,2006,8,2006-08-22T03:00:00Z,2006-08-27T03:00:00Z,BRA,Rio de Janeiro,World Junior Swimming Championships,SW
 2378,8th FINA World Junior Swimming Championships 2022,2022,8,2022-08-30T05:00:00Z,2022-09-04T05:00:00Z,PER,Lima,World Junior Swimming Championships,SW
+3266,World Aquatics Junior Swimming Championships - Netanya 2023,2023,9,2023-09-03T22:00:00Z,2023-09-08T22:00:00Z,ISR,Netanya,World Junior Swimming Championships,SW
 60,CANCELLED - FINA/CNSG Diving World Series 2020,2020,3,2020-03-27T00:00:00Z,2020-03-29T00:00:00Z,GBR,London,Diving World Series,DV
 61,CANCELLED - FINA/CNSG Diving World Series 2020,2020,3,2020-03-19T21:00:00Z,2020-03-21T21:00:00Z,RUS,Kazan,Diving World Series,DV
 63,FINA/CNSG Diving World Series 2020,2020,2,2020-02-28T05:00:00Z,2020-03-01T05:00:00Z,CAN,Montreal,Diving World Series,DV
@@ -629,29 +630,29 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1182,FINA Diving Grand Prix 2021,2021,5,2021-05-27T05:00:00Z,2021-05-30T05:00:00Z,CAN,Virtual Event,Diving Grand Prix,DV
 2961,FINA Diving Grand Prix 2022,2022,6,2022-06-09T06:00:00Z,2022-06-12T06:00:00Z,CAN,Calgary,Diving Grand Prix,DV
 2987,FINA Diving Grand Prix 2022,2022,11,2022-11-24T16:00:00Z,2022-11-26T16:00:00Z,MAS,Kuala Lumpur,Diving Grand Prix,DV
-11,FINA Diving World Cup 2021,2021,4,2021-04-30T15:00:00Z,2021-05-05T15:00:00Z,JPN,Tokyo,Diving World Cup,DV
-168,FINA Diving World Cup 2018,2018,6,2018-06-03T16:00:00Z,2018-06-09T16:00:00Z,CHN,Wuhan,Diving World Cup,DV
-284,FINA Diving World Cup 2016,2016,2,2016-02-19T03:00:00Z,2016-02-24T03:00:00Z,BRA,Rio de Janeiro,Diving World Cup,DV
-373,FINA Diving World Cup 2014,2014,7,2014-07-14T16:00:00Z,2014-07-19T16:00:00Z,CHN,Shanghai,Diving World Cup,DV
-491,FINA Diving World Cup 2012,2012,2,2012-02-20T00:00:00Z,2012-02-25T00:00:00Z,GBR,London,Diving World Cup,DV
-577,FINA Diving World Cup 2010,2010,6,2010-06-01T16:00:00Z,2010-06-05T16:00:00Z,CHN,Changzhou,Diving World Cup,DV
-685,FINA Diving World Cup 2008,2008,2,2008-02-18T16:00:00Z,2008-02-24T16:00:00Z,CHN,Beijing,Diving World Cup,DV
-746,FINA Diving World Cup 2006,2006,7,2006-07-18T16:00:00Z,2006-07-22T16:00:00Z,CHN,Changshu,Diving World Cup,DV
-804,FINA Diving World Cup 2004,2004,2,2004-02-17T22:00:00Z,2004-02-21T22:00:00Z,GRE,Athens,Diving World Cup,DV
-842,FINA Diving World Cup 2002,2002,6,2002-06-24T23:00:00Z,2002-06-28T23:00:00Z,ESP,Seville,Diving World Cup,DV
-909,FINA Diving World Cup 2000,2000,1,2000-01-24T14:00:00Z,2000-01-28T14:00:00Z,AUS,Sydney,Diving World Cup,DV
-940,FINA Diving World Cup 1999,1999,1,1999-01-11T12:00:00Z,1999-01-15T12:00:00Z,NZL,Wellington,Diving World Cup,DV
-968,FINA Diving World Cup 1997,1997,9,1997-09-10T06:00:00Z,1997-09-14T06:00:00Z,MEX,Mexico City,Diving World Cup,DV
-1008,FINA Diving World Cup 1995,1995,9,1995-09-05T05:00:00Z,1995-09-09T05:00:00Z,USA,Atlanta,Diving World Cup,DV
-1038,FINA Diving World Cup 1993,1993,5,1993-05-27T16:00:00Z,1993-05-31T16:00:00Z,CHN,Beijing,Diving World Cup,DV
-1056,FINA Diving World Cup 1991,1991,5,1991-05-01T05:00:00Z,1991-05-05T05:00:00Z,CAN,Winnipeg,Diving World Cup,DV
-1080,FINA Diving World Cup 1989,1989,1,1989-01-15T05:00:00Z,1989-01-15T05:00:00Z,USA,Indianapolis,Diving World Cup,DV
-1085,FINA Diving World Cup 1987,1987,4,1987-04-22T23:00:00Z,1987-04-25T23:00:00Z,NED,Amersfoort,Diving World Cup,DV
-1088,FINA Diving World Cup 1985,1985,1,1985-01-23T16:00:00Z,1985-01-26T16:00:00Z,CHN,Shanghai,Diving World Cup,DV
-1090,FINA Diving World Cup 1983,1983,2,1983-02-15T07:00:00Z,1983-02-15T07:00:00Z,USA,The Woodlands,Diving World Cup,DV
-1092,FINA Diving World Cup 1981,1981,1,1981-01-12T06:00:00Z,1981-01-12T06:00:00Z,MEX,Mexico City,Diving World Cup,DV
-1095,FINA Diving World Cup 1979,1979,2,1979-02-12T07:00:00Z,1979-02-12T07:00:00Z,USA,The Woodlands,Diving World Cup,DV
-3012,FINA Diving World Cup 2022,2022,10,2022-10-19T23:00:00Z,2022-10-22T23:00:00Z,GER,Berlin,Diving World Cup,DV
+11,FINA Diving World Cup 2021,2021,4,2021-04-30T15:00:00Z,2021-05-05T15:00:00Z,JPN,Tokyo,Diving World Cup (Pre-2023),DV
+168,FINA Diving World Cup 2018,2018,6,2018-06-03T16:00:00Z,2018-06-09T16:00:00Z,CHN,Wuhan,Diving World Cup (Pre-2023),DV
+284,FINA Diving World Cup 2016,2016,2,2016-02-19T03:00:00Z,2016-02-24T03:00:00Z,BRA,Rio de Janeiro,Diving World Cup (Pre-2023),DV
+373,FINA Diving World Cup 2014,2014,7,2014-07-14T16:00:00Z,2014-07-19T16:00:00Z,CHN,Shanghai,Diving World Cup (Pre-2023),DV
+491,FINA Diving World Cup 2012,2012,2,2012-02-20T00:00:00Z,2012-02-25T00:00:00Z,GBR,London,Diving World Cup (Pre-2023),DV
+577,FINA Diving World Cup 2010,2010,6,2010-06-01T16:00:00Z,2010-06-05T16:00:00Z,CHN,Changzhou,Diving World Cup (Pre-2023),DV
+685,FINA Diving World Cup 2008,2008,2,2008-02-18T16:00:00Z,2008-02-24T16:00:00Z,CHN,Beijing,Diving World Cup (Pre-2023),DV
+746,FINA Diving World Cup 2006,2006,7,2006-07-18T16:00:00Z,2006-07-22T16:00:00Z,CHN,Changshu,Diving World Cup (Pre-2023),DV
+804,FINA Diving World Cup 2004,2004,2,2004-02-17T22:00:00Z,2004-02-21T22:00:00Z,GRE,Athens,Diving World Cup (Pre-2023),DV
+842,FINA Diving World Cup 2002,2002,6,2002-06-24T23:00:00Z,2002-06-28T23:00:00Z,ESP,Seville,Diving World Cup (Pre-2023),DV
+909,FINA Diving World Cup 2000,2000,1,2000-01-24T14:00:00Z,2000-01-28T14:00:00Z,AUS,Sydney,Diving World Cup (Pre-2023),DV
+940,FINA Diving World Cup 1999,1999,1,1999-01-11T12:00:00Z,1999-01-15T12:00:00Z,NZL,Wellington,Diving World Cup (Pre-2023),DV
+968,FINA Diving World Cup 1997,1997,9,1997-09-10T06:00:00Z,1997-09-14T06:00:00Z,MEX,Mexico City,Diving World Cup (Pre-2023),DV
+1008,FINA Diving World Cup 1995,1995,9,1995-09-05T05:00:00Z,1995-09-09T05:00:00Z,USA,Atlanta,Diving World Cup (Pre-2023),DV
+1038,FINA Diving World Cup 1993,1993,5,1993-05-27T16:00:00Z,1993-05-31T16:00:00Z,CHN,Beijing,Diving World Cup (Pre-2023),DV
+1056,FINA Diving World Cup 1991,1991,5,1991-05-01T05:00:00Z,1991-05-05T05:00:00Z,CAN,Winnipeg,Diving World Cup (Pre-2023),DV
+1080,FINA Diving World Cup 1989,1989,1,1989-01-15T05:00:00Z,1989-01-15T05:00:00Z,USA,Indianapolis,Diving World Cup (Pre-2023),DV
+1085,FINA Diving World Cup 1987,1987,4,1987-04-22T23:00:00Z,1987-04-25T23:00:00Z,NED,Amersfoort,Diving World Cup (Pre-2023),DV
+1088,FINA Diving World Cup 1985,1985,1,1985-01-23T16:00:00Z,1985-01-26T16:00:00Z,CHN,Shanghai,Diving World Cup (Pre-2023),DV
+1090,FINA Diving World Cup 1983,1983,2,1983-02-15T07:00:00Z,1983-02-15T07:00:00Z,USA,The Woodlands,Diving World Cup (Pre-2023),DV
+1092,FINA Diving World Cup 1981,1981,1,1981-01-12T06:00:00Z,1981-01-12T06:00:00Z,MEX,Mexico City,Diving World Cup (Pre-2023),DV
+1095,FINA Diving World Cup 1979,1979,2,1979-02-12T07:00:00Z,1979-02-12T07:00:00Z,USA,The Woodlands,Diving World Cup (Pre-2023),DV
+3012,FINA Diving World Cup 2022,2022,10,2022-10-19T23:00:00Z,2022-10-22T23:00:00Z,GER,Berlin,Diving World Cup (Pre-2023),DV
 158,FINA World Junior Diving Championships 2018,2018,7,2018-07-22T22:00:00Z,2018-07-28T22:00:00Z,UKR,Kyiv,World Junior Diving Championships,DV
 240,FINA World Junior Diving Championships 2016,2016,11,2016-11-28T21:00:00Z,2016-12-03T21:00:00Z,RUS,Kazan,World Junior Diving Championships,DV
 354,FINA World Junior Diving Championships 2014,2014,9,2014-09-08T21:00:00Z,2014-09-13T21:00:00Z,RUS,Penza,World Junior Diving Championships,DV
@@ -801,9 +802,8 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3066,World Aquatics Open Water Swimming World Cup - Golfo Aranci 2023,2023,5,2023-05-19T23:00:00Z,2023-05-20T23:00:00Z,ITA,Golfo Aranci,Marathon Swim World Series,OW
 3067,World Aquatics Open Water Swimming World Cup - Setubal 2023,2023,5,2023-05-27T00:00:00Z,2023-05-28T00:00:00Z,POR,Setubal,Marathon Swim World Series,OW
 3068,World Aquatics Open Water Swimming World Cup - Paris 2023,2023,8,2023-08-04T23:00:00Z,2023-08-05T23:00:00Z,FRA,Paris,Marathon Swim World Series,OW
-3069,World Aquatics Open Water Swimming World Cup - Nantou 2023,2023,10,2023-10-27T16:00:00Z,2023-10-28T16:00:00Z,TPE,Nantou,Marathon Swim World Series,OW
-3070,World Aquatics Open Water Swimming World Cup - Hong Kong 2023,2023,11,2023-11-03T16:00:00Z,2023-11-04T16:00:00Z,HKG,Hong Kong,Marathon Swim World Series,OW
 3071,World Aquatics Open Water Swimming World Cup - Eilat 2023,2023,11,2023-11-30T22:00:00Z,2023-12-01T22:00:00Z,ISR,Eilat,Marathon Swim World Series,OW
+3255,World Aquatics Open Water Swimming World Cup - Soma Bay 2023,2023,5,2023-05-07T22:00:00Z,2023-05-08T22:00:00Z,EGY,Soma Bay,Marathon Swim World Series,OW
 21,CANCELLED - FINA UltraMarathon Swim Series 2020,2020,11,2020-11-15T03:00:00Z,2020-11-15T03:00:00Z,ARG,Santa Fe,UltraMarathon Swim Series,OW
 22,CANCELLED - FINA UltraMarathon Swim Series 2020,2020,11,2020-11-08T03:00:00Z,2020-11-08T03:00:00Z,ARG,Rosario,UltraMarathon Swim Series,OW
 31,CANCELLED - FINA UltraMarathon Swim Series 2020,2020,9,2020-09-04T23:00:00Z,2020-09-04T23:00:00Z,ITA,Capri-Napoli,UltraMarathon Swim Series,OW
@@ -963,7 +963,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2888,CANCELLED - FINA Artistic Swimming World Series 2022,2022,4,2022-04-07T21:00:00Z,2022-04-09T21:00:00Z,RUS,Kazan,Artistic Swimming World Series,SY
 2920,FINA Artistic Swimming World Series 2022 - Super Final,2022,5,2022-05-19T22:00:00Z,2022-05-21T22:00:00Z,GRE,Athens,Artistic Swimming World Series,SY
 3084,World Aquatics Artistic Swimming World Cup - Markham 2023,2023,3,2023-03-16T05:00:00Z,2023-03-18T05:00:00Z,CAN,Markham,Artistic Swimming World Series,SY
-3085,World Aquatics Artistic Swimming World Cup - Cairo 2023,2023,4,2023-04-27T22:00:00Z,2023-04-29T22:00:00Z,EGY,Cairo,Artistic Swimming World Series,SY
+3085,World Aquatics Artistic Swimming World Cup - Soma Bay 2023,2023,5,2023-05-12T22:00:00Z,2023-05-14T22:00:00Z,EGY,Soma Bay,Artistic Swimming World Series,SY
 3086,World Aquatics Artistic Swimming World Cup - Montpellier 2023,2023,5,2023-05-04T23:00:00Z,2023-05-06T23:00:00Z,FRA,Montpellier,Artistic Swimming World Series,SY
 242,FINA Synchro World Trophy 2016,2016,11,2016-11-25T16:00:00Z,2016-11-26T16:00:00Z,CHN,Yangzhou,Artistic Swimming World Trophy,SY
 289,FINA Synchro World Trophy 2015,2015,12,2015-12-11T16:00:00Z,2015-12-12T16:00:00Z,CHN,Keqiao,Artistic Swimming World Trophy,SY
@@ -1056,11 +1056,11 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 727,FINA Women's Water Polo World League Preliminary Round 2007 - Asia/Oceania,2007,5,2007-05-28T16:00:00Z,2007-06-02T16:00:00Z,CHN,Tianjin,Women's Water Polo World League Preliminary Round,WP
 772,FINA Women's Water Polo World League Preliminary Round 2005,2005,6,2005-06-28T23:00:00Z,2005-07-09T23:00:00Z,,,Women's Water Polo World League Preliminary Round,WP
 747,FINA Women's Water Polo World League Semifinal Round 2006,2006,7,2006-07-12T08:00:00Z,2006-07-17T08:00:00Z,USA,Los Alamitos,Women's Water Polo World League Semifinal Round,WP
-151,FINA Women's Water Polo World Cup 2018,2018,9,2018-09-03T21:00:00Z,2018-09-07T21:00:00Z,RUS,Surgut,Women’s Water Polo World Cup,WP
-363,FINA Women's Water Polo World Cup 2014,2014,8,2014-08-11T18:00:00Z,2014-08-16T18:00:00Z,RUS,Khanty-Mansiysk,Women’s Water Polo World Cup,WP
-560,FINA Women's Water Polo World Cup 2010,2010,8,2010-08-16T12:00:00Z,2010-08-21T12:00:00Z,NZL,Christchurch,Women’s Water Polo World Cup,WP
-742,FINA Women's Water Polo World Cup 2006,2006,8,2006-08-07T16:00:00Z,2006-08-12T16:00:00Z,CHN,Tianjin,Women’s Water Polo World Cup,WP
-831,FINA Women's Water Polo World Cup 2002,2002,12,2002-12-09T16:00:00Z,2002-12-14T16:00:00Z,AUS,Perth,Women’s Water Polo World Cup,WP
+151,FINA Women's Water Polo World Cup 2018,2018,9,2018-09-03T21:00:00Z,2018-09-07T21:00:00Z,RUS,Surgut,Women’s Water Polo World Cup (Pre-2023),WP
+363,FINA Women's Water Polo World Cup 2014,2014,8,2014-08-11T18:00:00Z,2014-08-16T18:00:00Z,RUS,Khanty-Mansiysk,Women’s Water Polo World Cup (Pre-2023),WP
+560,FINA Women's Water Polo World Cup 2010,2010,8,2010-08-16T12:00:00Z,2010-08-21T12:00:00Z,NZL,Christchurch,Women’s Water Polo World Cup (Pre-2023),WP
+742,FINA Women's Water Polo World Cup 2006,2006,8,2006-08-07T16:00:00Z,2006-08-12T16:00:00Z,CHN,Tianjin,Women’s Water Polo World Cup (Pre-2023),WP
+831,FINA Women's Water Polo World Cup 2002,2002,12,2002-12-09T16:00:00Z,2002-12-14T16:00:00Z,AUS,Perth,Women’s Water Polo World Cup (Pre-2023),WP
 17,FINA Women's Water Polo Olympic Games Qualification Tournament 2020,2021,1,2021-01-18T23:00:00Z,2021-01-23T23:00:00Z,ITA,Trieste,Women’s Water Polo Olympic Games Qualification Tournament,WP
 278,FINA Women's Water Polo Olympic Games Qualification Tournament 2016,2016,3,2016-03-20T23:00:00Z,2016-03-27T23:00:00Z,NED,Gouda,Women’s Water Polo Olympic Games Qualification Tournament,WP
 81,FINA World Women's Junior Waterpolo Championships 2019,2019,9,2019-09-09T00:00:00Z,2019-09-15T00:00:00Z,POR,Funchal,World Women’s Junior Water Polo Championships,WP
@@ -1074,6 +1074,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 813,FINA World Women's Junior Waterpolo Championships 2003,2003,8,2003-08-23T07:00:00Z,2003-08-31T07:00:00Z,CAN,Calgary,World Women’s Junior Water Polo Championships,WP
 858,FINA World Women's Junior Waterpolo Championships 2001,2001,12,2001-12-06T16:00:00Z,2001-12-14T16:00:00Z,AUS,Perth,World Women’s Junior Water Polo Championships,WP
 1141,FINA World Women's Junior Waterpolo Championships 2021,2021,10,2021-10-09T22:00:00Z,2021-10-15T22:00:00Z,ISR,Netanya,World Women’s Junior Water Polo Championships,WP
+3239,World Aquatics Women’s U20 Water Polo Championships - Coimbra 2023,2023,9,2023-09-02T00:00:00Z,2023-09-10T00:00:00Z,POR,Coimbra,World Women’s Junior Water Polo Championships,WP
 19,FINA World Women's Youth Water Polo Championships 2022,2022,7,2022-07-31T23:00:00Z,2022-08-07T23:00:00Z,SRB,Belgrade,World Women’s Youth Water Polo Championships,WP
 42,CANCELLED - FINA Women's World U16 Water Polo Cup 2020,2020,7,2020-07-04T22:00:00Z,2020-07-11T22:00:00Z,GRE,Volos - Larissa,World Women’s Youth Water Polo Championships,WP
 152,FINA World Women's Youth Water Polo Championships 2018,2018,8,2018-08-26T23:00:00Z,2018-09-01T23:00:00Z,SRB,Belgrade,World Women’s Youth Water Polo Championships,WP
@@ -1145,11 +1146,11 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 841,FINA Men's Water Polo World League Preliminary Round 2002,2002,6,2002-06-27T23:00:00Z,2002-07-27T23:00:00Z,,,Men's Water Polo World League Preliminary Round,WP
 745,FINA Men's Water Polo World League Semifinal Round 2006,2006,7,2006-07-19T08:00:00Z,2006-07-23T08:00:00Z,USA,Los Alamitos,Men's Water Polo World League Semifinal Round,WP
 769,Men's Water Polo World League Semifinal Round 2005,2005,8,2005-08-11T05:00:00Z,2005-08-14T05:00:00Z,USA,Long Island,Men's Water Polo World League Semifinal Round,WP
-148,FINA Men's Water Polo World Cup 2018,2018,9,2018-09-10T23:00:00Z,2018-09-15T23:00:00Z,GER,Berlin,Men’s Water Polo World Cup,WP
-361,FINA Men's Water Polo World Cup 2014,2014,8,2014-08-18T18:00:00Z,2014-08-23T18:00:00Z,KAZ,Almaty,Men’s Water Polo World Cup,WP
-566,FINA Men's Water Polo World Cup 2010,2010,7,2010-07-26T23:00:00Z,2010-07-31T23:00:00Z,ROU,Oradea,Men’s Water Polo World Cup,WP
-749,FINA Men's Water Polo World Cup 2006,2006,6,2006-06-12T23:00:00Z,2006-06-17T23:00:00Z,HUN,Budapest,Men’s Water Polo World Cup,WP
-839,FINA Men's Water Polo World Cup 2002,2002,8,2002-08-19T23:00:00Z,2002-08-24T23:00:00Z,YUG,Belgrade,Men’s Water Polo World Cup,WP
+148,FINA Men's Water Polo World Cup 2018,2018,9,2018-09-10T23:00:00Z,2018-09-15T23:00:00Z,GER,Berlin,Men’s Water Polo World Cup (Pre-2023),WP
+361,FINA Men's Water Polo World Cup 2014,2014,8,2014-08-18T18:00:00Z,2014-08-23T18:00:00Z,KAZ,Almaty,Men’s Water Polo World Cup (Pre-2023),WP
+566,FINA Men's Water Polo World Cup 2010,2010,7,2010-07-26T23:00:00Z,2010-07-31T23:00:00Z,ROU,Oradea,Men’s Water Polo World Cup (Pre-2023),WP
+749,FINA Men's Water Polo World Cup 2006,2006,6,2006-06-12T23:00:00Z,2006-06-17T23:00:00Z,HUN,Budapest,Men’s Water Polo World Cup (Pre-2023),WP
+839,FINA Men's Water Polo World Cup 2002,2002,8,2002-08-19T23:00:00Z,2002-08-24T23:00:00Z,YUG,Belgrade,Men’s Water Polo World Cup (Pre-2023),WP
 78,FINA Men's Water Polo Challengers Cup 2019,2019,10,2019-10-07T16:00:00Z,2019-10-12T16:00:00Z,SGP,Singapore,Men’s Water Polo Challengers Cup,WP
 197,FINA Men's Water Polo Development Trophy 2017,2017,10,2017-10-16T23:00:00Z,2017-10-21T23:00:00Z,MLT,Gzira,Men’s Water Polo Challengers Cup,WP
 321,FINA Men's Water Polo Development Trophy 2015,2015,5,2015-05-23T19:30:00Z,2015-05-28T19:30:00Z,IRI,Tehran,Men’s Water Polo Challengers Cup,WP
@@ -1171,6 +1172,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 815,FINA World Men's Junior Water Polo Championships 2003,2003,8,2003-08-08T23:00:00Z,2003-08-16T23:00:00Z,ITA,Napoli,World Men’s Junior Water Polo Championships,WP
 864,FINA World Men's Junior Water Polo Championships 2001,2001,8,2001-08-09T21:00:00Z,2001-08-18T21:00:00Z,TUR,Istanbul,World Men’s Junior Water Polo Championships,WP
 2638,FINA World Men's Junior Water Polo Championships 2021,2021,8,2021-08-27T23:00:00Z,2021-09-04T23:00:00Z,CZE,Prague,World Men’s Junior Water Polo Championships,WP
+3238,World Aquatics Men’s U20 Water Polo Championships – Otopeni/Bucharest 2023,2023,6,2023-06-09T22:00:00Z,2023-06-17T22:00:00Z,ROU,Otopeni/Bucharest,World Men’s Junior Water Polo Championships,WP
 37,FINA World Men's Youth Water Polo Championships 2022,2022,8,2022-08-10T23:00:00Z,2022-08-18T23:00:00Z,SRB,Belgrade,World Men’s Youth Water Polo Championships,WP
 43,CANCELLED - FINA Men's World U16 Water Polo Cup 2020,2020,7,2020-07-04T22:00:00Z,2020-07-11T22:00:00Z,GRE,Volos - Larissa,World Men’s Youth Water Polo Championships,WP
 155,FINA World Men's Youth Water Polo Championships 2018,2018,8,2018-08-10T23:00:00Z,2018-08-18T23:00:00Z,HUN,Szombathely,World Men’s Youth Water Polo Championships,WP
@@ -1208,6 +1210,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2349,European Junior Swimming Championships 2015,2015,6,2015-06-23T00:00:00Z,2015-06-27T00:00:00Z,AZE,Baku,European Junior Championships,SW
 2606,European Junior Swimming Championships 2021,2021,7,2021-07-06T00:00:00Z,2021-07-11T00:00:00Z,ITA,Rome,European Junior Championships,SW
 2981,European Junior Swimming Championships 2022,2022,7,2022-07-05T00:00:00Z,2022-07-10T00:00:00Z,ROU,Otopeni,European Junior Championships,SW
+3291,European Junior Swimming Championships 2023,2023,7,2023-07-04T00:00:00Z,2023-07-09T00:00:00Z,SRB,Belgrade,European Junior Championships,SW
 2019,Junior Pan Pacific Swimming Championships 2018,2018,8,2018-08-23T00:00:00Z,2018-08-26T00:00:00Z,FIJ,Suva,Pan Pacific Junior Championships,SW
 3001,Junior Pan Pacific Swimming Championships 2022,2022,8,2022-08-24T00:00:00Z,2022-08-27T00:00:00Z,USA,Honolulu,Pan Pacific Junior Championships,SW
 1736,Asian Age Group Championships 2019,2019,9,2019-09-24T00:00:00Z,2019-09-27T00:00:00Z,IND,Bengaluru,Asian Age Group Championships,SW
@@ -1239,6 +1242,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2316,The National High School Games 2017,2017,4,2017-04-22T00:00:00Z,2017-04-27T00:00:00Z,TPE,Chang-Hua,Collegiate/School,SW
 2662,National Intercollegiate Athletic Games 2020,2020,10,2020-10-31T00:00:00Z,2020-11-04T00:00:00Z,TPE,Kaoshiung,Collegiate/School,SW
 2914,National High School Athletics Games 2022,2022,7,2022-07-15T00:00:00Z,2022-07-20T00:00:00Z,TPE,Huanlien City,Collegiate/School,SW
+3225,National Intercollegiate Athletic Games 2023,2023,5,2023-05-05T00:00:00Z,2023-05-09T00:00:00Z,TPE,Hsinchu County,Collegiate/School,SW
 1332,Mutual of Omaha Duel in the Pool 2015,2015,12,2015-12-11T00:00:00Z,2015-12-12T00:00:00Z,USA,Indianapolis,Duel In The Pool,SW
 3009,Duel in the Pool 2022,2022,8,2022-08-20T00:00:00Z,2022-08-21T00:00:00Z,AUS,Sydney,Duel In The Pool,SW
 1210,Manchester International Swim Meet,2021,2,2021-02-12T00:00:00Z,2021-02-14T00:00:00Z,GBR,Manchester,International,SW
@@ -1262,9 +1266,9 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1506,Romanian International Swimming Championships - CANCELLED,2021,6,2021-06-17T00:00:00Z,2021-06-20T00:00:00Z,ROU,Bucharest,International,SW
 1528,"9th International Sprint Festival ""Riga Sprint 2021""",2021,11,2021-11-26T00:00:00Z,2021-11-27T00:00:00Z,LAT,Riga,International,SW
 1604,International Turkcell Youth Junior and Open,2020,12,2020-12-25T00:00:00Z,2020-12-27T00:00:00Z,TUR,Istanbul,International,SW
-1657,57th International Trophy “Settecolli”,2020,8,2020-08-11T00:00:00Z,2020-08-13T00:00:00Z,ITA,Rome,International,SW
+1657,57th International Trophy Sette Colli,2020,8,2020-08-11T00:00:00Z,2020-08-13T00:00:00Z,ITA,Rome,International,SW
 1686,UANA Swimming Cup,2020,2,2020-02-21T00:00:00Z,2020-02-23T00:00:00Z,PER,Lima,International,SW
-1694,Meeting Internacional de Lisboa,2020,2,2020-02-08T00:00:00Z,2020-02-09T00:00:00Z,POR,Lisbon,International,SW
+1694,Arena Lisbon International Meet 2020,2020,2,2020-02-08T00:00:00Z,2020-02-09T00:00:00Z,POR,Lisbon,International,SW
 1696,Meeting International FFN - Golden Tour,2020,2,2020-02-07T00:00:00Z,2020-02-09T00:00:00Z,FRA,Nice,International,SW
 1700,22nd Luxembourg Euro Meet 2020,2020,1,2020-01-24T00:00:00Z,2020-01-26T00:00:00Z,LUX,Luxembourg,International,SW
 1702,53th Challenge International Geneve,2020,1,2020-01-17T00:00:00Z,2020-01-19T00:00:00Z,SUI,Geneva,International,SW
@@ -1273,12 +1277,12 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1728,37th Invitaciones Internacional Naco 2019,2019,11,2019-11-28T00:00:00Z,2019-12-01T00:00:00Z,DOM,Santo Domingo,International,SW
 1758,Indian Ocean Island Games,2019,7,2019-07-19T00:00:00Z,2019-07-23T00:00:00Z,MRI,Cote d'Or,International,SW
 1765,Pacific Games 2019,2019,7,2019-07-08T00:00:00Z,2019-07-13T00:00:00Z,SAM,Apia,International,SW
-1785,56th International Trophy “Settecolli”,2019,6,2019-06-21T00:00:00Z,2019-06-23T00:00:00Z,ITA,Rome,International,SW
+1785,56th International Trophy Sette Colli,2019,6,2019-06-21T00:00:00Z,2019-06-23T00:00:00Z,ITA,Rome,International,SW
 1820,18th Games of the Small States of Europe 2019,2019,5,2019-05-27T00:00:00Z,2019-06-01T00:00:00Z,MNE,Podgorica,International,SW
 1822,Pori International Swimming Classic,2019,5,2019-05-25T00:00:00Z,2019-05-26T00:00:00Z,FIN,Pori,International,SW
 1825,28th Annual Aquatic Centre International,2019,5,2019-05-24T00:00:00Z,2019-05-26T00:00:00Z,BAR,Bridgetown,International,SW
 1828,Glasgow International Swim Meet,2019,5,2019-05-24T00:00:00Z,2019-05-26T00:00:00Z,GBR,Glasgow,International,SW
-1831,Grand Prix Internacional - SYC 2019,2019,5,2019-05-23T00:00:00Z,2019-05-25T00:00:00Z,PAR,Asuncion,International,SW
+1831,Grand Prix SYC 2019,2019,5,2019-05-23T00:00:00Z,2019-05-25T00:00:00Z,PAR,Asuncion,International,SW
 1832,25th International Sindelfingen Swimming Championships,2019,5,2019-05-18T00:00:00Z,2019-05-19T00:00:00Z,GER,Sindelfingen,International,SW
 1843,47th International Meet Verbano 2019,2019,5,2019-05-11T00:00:00Z,2019-05-12T00:00:00Z,SUI,Tenero,International,SW
 1848,Romanian International Swimming Championships,2019,5,2019-05-09T00:00:00Z,2019-05-12T00:00:00Z,ROU,Bucharest,International,SW
@@ -1288,7 +1292,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1927,Meeting International FFN - Golden Tour,2019,3,2019-03-22T00:00:00Z,2019-03-24T00:00:00Z,FRA,Marseille,International,SW
 1937,International Swim Meet Penguine 2019,2019,3,2019-03-09T00:00:00Z,2019-03-10T00:00:00Z,SLO,Kranj,International,SW
 1955,McCullagh International Meet,2019,2,2019-02-22T00:00:00Z,2019-02-24T00:00:00Z,IRL,Bangor,International,SW
-1959,11th Meeting Internacional de Lisboa WOS,2019,2,2019-02-09T00:00:00Z,2019-02-10T00:00:00Z,POR,Lisbon,International,SW
+1959,11th WOS Lisbon International Meet,2019,2,2019-02-09T00:00:00Z,2019-02-10T00:00:00Z,POR,Lisbon,International,SW
 1960,International Swimming Meet Apostolos Pavlos 2019,2019,2,2019-02-09T00:00:00Z,2019-02-10T00:00:00Z,GRE,Kavala,International,SW
 1961,Meeting International FFN - Golden Tour - Camille Muffat,2019,2,2019-02-08T00:00:00Z,2019-02-10T00:00:00Z,FRA,Nice,International,SW
 1967,52th Challenge International de Geneve,2019,1,2019-01-18T00:00:00Z,2019-01-20T00:00:00Z,SUI,Geneva ,International,SW
@@ -1296,7 +1300,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2033,130th Internationale Deutsche Meisterschaften 2018,2018,7,2018-07-19T00:00:00Z,2018-07-22T00:00:00Z,GER,Berlin,International,SW
 2036,3rd African Youth Games,2018,7,2018-07-18T00:00:00Z,2018-07-28T00:00:00Z,ALG,Alger,International,SW
 2049,4th Arab Open Swimming Championships 2018,2018,7,2018-07-12T00:00:00Z,2018-07-15T00:00:00Z,TUN,Rades,International,SW
-2065,55th International Trophy “Settecolli”,2018,6,2018-06-29T00:00:00Z,2018-07-01T00:00:00Z,ITA,Rome,International,SW
+2065,55th International Trophy Sette Colli,2018,6,2018-06-29T00:00:00Z,2018-07-01T00:00:00Z,ITA,Rome,International,SW
 2089,11th South American Games 2018,2018,5,2018-05-27T00:00:00Z,2018-05-30T00:00:00Z,BOL,Cochabamba,International,SW
 2094,Romanian International Swimming Championships,2018,5,2018-05-24T00:00:00Z,2018-05-27T00:00:00Z,ROU,Bucharest,International,SW
 2175,Meeting International FFN - Golden Tour 2,2018,3,2018-03-09T00:00:00Z,2018-03-11T00:00:00Z,FRA,Sarcelles,International,SW
@@ -1305,9 +1309,9 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2189,20th Luxembourg Euro Meet 2018,2018,1,2018-01-26T00:00:00Z,2018-01-28T00:00:00Z,LUX,Luxembourg,International,SW
 2191,51th Challenge International de Geneve,2018,1,2018-01-19T00:00:00Z,2018-01-21T00:00:00Z,SUI,Geneva ,International,SW
 2211,XI Juegos Deportivos Centroamericanos,2017,12,2017-12-04T00:00:00Z,2017-12-09T00:00:00Z,NCA,Managua,International,SW
-2263,54th International Trophy “Settecolli”,2017,6,2017-06-23T00:00:00Z,2017-06-25T00:00:00Z,ITA,Rome,International,SW
+2263,54th International Trophy Sette Colli,2017,6,2017-06-23T00:00:00Z,2017-06-25T00:00:00Z,ITA,Rome,International,SW
 2313,Meeting International FFN - Golden Tour - Camille Muffat,2017,4,2017-04-28T00:00:00Z,2017-04-30T00:00:00Z,FRA,Amiens,International,SW
-2374,58th International Trophy “Settecolli”,2021,6,2021-06-25T00:00:00Z,2021-06-27T00:00:00Z,ITA,Rome,International,SW
+2374,58th International Trophy Sette Colli,2021,6,2021-06-25T00:00:00Z,2021-06-27T00:00:00Z,ITA,Rome,International,SW
 2379,45th South American Swimming Championships 2021,2021,3,2021-03-16T00:00:00Z,2021-03-19T00:00:00Z,ARG,Buenos Aires,International,SW
 2399,43rd South American Swimming Championships 2016,2016,3,2016-03-30T00:00:00Z,2016-04-03T00:00:00Z,PAR,Asuncion,International,SW SY
 2405,Edinburgh International Swim Meet,2019,3,2019-03-15T00:00:00Z,2019-03-15T00:00:00Z,GBR,Edinburgh,International,SW
@@ -1316,13 +1320,12 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2520,46th World Military Championships 2014,2014,6,2014-06-13T00:00:00Z,2014-06-15T00:00:00Z,SUI,Tenero,International,SW
 2613,12th International Swimming Meeting “22 April” / CANCELLED,2021,5,2021-05-08T00:00:00Z,2021-05-09T00:00:00Z,BIH,Banja Luka,International,SW
 2663,6th Asian Beach Games Sanya 2020 - Rescheduled to 2023 (dates TBC),2023,1,2023-01-01T00:00:00Z,2023-01-01T00:00:00Z,CHN,Sanya,International,OW WP
-2669,29th International Meeting of St Dizier,2021,10,2021-10-15T00:00:00Z,2021-10-17T00:00:00Z,FRA,Saint-Dizier,International,SW
+2669,29th International Meeting of Saint-Dizier,2021,10,2021-10-15T00:00:00Z,2021-10-17T00:00:00Z,FRA,Saint-Dizier,International,SW
 2712,Puerto Rico International Swimming,2021,10,2021-10-28T00:00:00Z,2021-10-31T00:00:00Z,PUR,San Juan,International,SW
 2765,1st Arab Swimming Age Group Championships 2021,2021,10,2021-10-24T00:00:00Z,2021-10-27T00:00:00Z,UAE,Abu Dhabi,International,SW
 2770,55th Challenge International de Geneve,2022,1,2022-01-21T00:00:00Z,2022-01-23T00:00:00Z,SUI,Geneva,International,SW
 2834,23rd Luxembourg Euro Meet 2022 / CANCELLED,2022,1,2022-01-28T00:00:00Z,2022-01-30T00:00:00Z,LUX,Luxembourg,International,SW
 2968,13th International Swimming Meeting “22 April”,2022,4,2022-04-30T00:00:00Z,2022-05-01T00:00:00Z,BIH,Banja Luka,International,SW
-2980,Apollo Projects New Zealand Championships 2022 (25m),2022,8,2022-08-23T00:00:00Z,2022-08-27T00:00:00Z,NZL,Auckland,International,SW
 2999,12th South American Games 2022,2022,10,2022-10-02T00:00:00Z,2022-10-05T00:00:00Z,PAR,Asuncion,International,SW
 3004,5th Islamic Solidarity Games 2022,2022,8,2022-08-13T00:00:00Z,2022-08-17T00:00:00Z,TUR,Konya,International,SW
 3028,9th Vietnam Sports Games,2022,12,2022-12-12T00:00:00Z,2022-12-17T00:00:00Z,VIE,Hanoi,International,SW
@@ -1331,6 +1334,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3053,6th Panathinaikos AC - TYR International Swimming Trophy,2022,12,2022-12-02T00:00:00Z,2022-12-04T00:00:00Z,GRE,Athens,International,SW
 3095,56th Challenge International de Geneve,2023,1,2023-01-20T00:00:00Z,2023-01-22T00:00:00Z,SUI,Geneva,International,SW
 3133,23rd Luxembourg Euro Meet 2023,2023,1,2023-01-27T00:00:00Z,2023-01-29T00:00:00Z,LUX,Luxembourg,International,SW
+3248,59th International Trophy Sette Colli,2023,6,2023-06-23T00:00:00Z,2023-06-25T00:00:00Z,ITA,Rome,International,SW
 1196,ISL 2019 Season - Grand Final,2019,12,2019-12-20T00:00:00Z,2019-12-21T00:00:00Z,USA,Las Vegas,International Swimming League (ISL),SW
 1216,ISL 2019 Season,2019,11,2019-11-23T00:00:00Z,2019-11-24T00:00:00Z,GBR,London,International Swimming League (ISL),SW
 1217,ISL 2019 Season,2019,11,2019-11-16T00:00:00Z,2019-11-17T00:00:00Z,USA,College Park,International Swimming League (ISL),SW
@@ -1401,8 +1405,8 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2196,Vladimir Salnikov Cup 2017,2017,12,2017-12-22T00:00:00Z,2017-12-23T00:00:00Z,RUS,Saint Petersburg,Invitational,SW
 2200,Lausanne Swim Cup,2017,12,2017-12-20T00:00:00Z,2017-12-21T00:00:00Z,SUI,Lausanne,Invitational,SW
 2256,SM/JSM (50m) 2017,2017,6,2017-06-30T00:00:00Z,2017-07-04T00:00:00Z,SWE,Boras,Invitational,SW
-2266,Campeonato Nacional por Catego,2017,6,2017-06-22T00:00:00Z,2017-06-25T00:00:00Z,VEN,Barquisimeto,Invitational,SW
-2277,Marsky Meet,2017,6,2017-06-10T00:00:00Z,2017-06-10T00:00:00Z,FIN,Helsinki,Invitational,SW
+2266,National Champinships - Per category,2017,6,2017-06-22T00:00:00Z,2017-06-25T00:00:00Z,VEN,Barquisimeto,Invitational,SW
+2277,Marsky Meet 2017,2017,6,2017-06-10T00:00:00Z,2017-06-10T00:00:00Z,FIN,Helsinki,Invitational,SW
 2278,Grand Prix of Kranj 2017,2017,6,2017-06-03T00:00:00Z,2017-06-04T00:00:00Z,SLO,Kranj,Invitational,SW
 2282,Laviaarit,2017,5,2017-05-27T00:00:00Z,2017-05-28T00:00:00Z,FIN,Espoo,Invitational,SW
 2283,"HPS GP ""Sisak""",2017,5,2017-05-27T00:00:00Z,2017-05-27T00:00:00Z,CRO,Sisak,Invitational,SW
@@ -1411,7 +1415,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2291,GP Pardubice,2017,5,2017-05-19T00:00:00Z,2017-05-21T00:00:00Z,CZE,Pardubice,Invitational,SW
 2295,V4 Olympic Hopes,2017,5,2017-05-13T00:00:00Z,2017-05-14T00:00:00Z,SVK,Bratislava,Invitational,SW
 2296,2017 Finis Cup,2017,5,2017-05-13T00:00:00Z,2017-05-14T00:00:00Z,EST,Tartu,Invitational,SW
-2298,Grand Prix (50 m),2017,5,2017-05-12T00:00:00Z,2017-05-14T00:00:00Z,FIN,Espoo,Invitational,SW
+2298,Grand Prix (50m),2017,5,2017-05-12T00:00:00Z,2017-05-14T00:00:00Z,FIN,Espoo,Invitational,SW
 2301,45th Meeting Internazionale del Verbano,2017,5,2017-05-06T00:00:00Z,2017-05-07T00:00:00Z,SUI,Tenero,Invitational,SW
 2307,Olimpiada Nacional 2017 ,2017,5,2017-05-02T00:00:00Z,2017-05-08T00:00:00Z,MEX,Monterrey,Invitational,SW
 2317,"8th MPM ""22. april 2017""",2017,4,2017-04-22T00:00:00Z,2017-04-23T00:00:00Z,BIH,Banja Luka,Invitational,SW
@@ -1438,8 +1442,10 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3094,Lausanne Swim Cup,2023,2,2023-02-24T00:00:00Z,2023-02-26T00:00:00Z,SUI,Lausanne,Invitational,SW
 3105,48th Invitational International Marlins de Arroyo Hondo,2023,4,2023-04-27T00:00:00Z,2023-04-30T00:00:00Z,DOM,Santo Domingo,Invitational,SW
 3126,Baltic States Championships 2023,2023,3,2023-03-03T00:00:00Z,2023-03-04T00:00:00Z,LAT,Riga,Invitational,SW
-3167,10th Milano City Trophy - 2023,2023,3,2023-03-17T00:00:00Z,2023-03-19T00:00:00Z,ITA,Milan,Invitational,SW
+3167,10th Milano City Trophy - 2023 / CANCELLED,2023,3,2023-03-17T00:00:00Z,2023-03-19T00:00:00Z,ITA,Milan,Invitational,SW
 3171,53rd Singapore National Age Group - Seniors,2023,3,2023-03-14T00:00:00Z,2023-03-19T00:00:00Z,SGP,Singapore,Invitational,SW
+3208,35th Turku Super Games,2023,3,2023-03-18T00:00:00Z,2023-03-18T00:00:00Z,FIN,Turku,Invitational,SW
+3226,MVN Fran Crippen Memorial Swim Meet of Champions 2023,2023,4,2023-04-13T00:00:00Z,2023-04-16T00:00:00Z,USA,Mission Viejo,Invitational,SW
 1203,National Spring Age Group Swimming Championships,2021,2,2021-02-25T00:00:00Z,2021-03-01T00:00:00Z,TPE,Taichung,Junior Competitions,SW
 1204,National Age Group Championships 2021 (50m),2021,2,2021-02-24T00:00:00Z,2021-02-28T00:00:00Z,TTO,Balmain,Junior Competitions,SW
 1214,Ontario Junior International 2019,2019,12,2019-12-13T00:00:00Z,2019-12-15T00:00:00Z,CAN,Toronto,Junior Competitions,SW
@@ -1460,9 +1466,9 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1518,Division 1 Competition (Part 2) 2021-2022 (50m),2021,5,2021-05-29T00:00:00Z,2021-05-30T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
 1642,Journée des Jeunes Espoirs 2020,2020,10,2020-10-24T00:00:00Z,2020-10-25T00:00:00Z,LUX,Ettelbruck,Junior Competitions,SW
 1644,Thailand Age Group Swimming Championships 2020,2020,10,2020-10-23T00:00:00Z,2020-10-25T00:00:00Z,THA,Bankgok,Junior Competitions,SW
-1662,Youth Swimming Championships,2020,7,2020-07-15T00:00:00Z,2020-07-20T00:00:00Z,VIE,Da Nang City,Junior Competitions,SW
+1662,Youth Swimming Championships,2020,7,2020-07-15T00:00:00Z,2020-07-20T00:00:00Z,VIE,Da Nang,Junior Competitions,SW
 1677,56th Malaysia Invitational Age Group Swimming Championships,2020,3,2020-03-05T00:00:00Z,2020-03-08T00:00:00Z,MAS,Kuala Lumpur,Junior Competitions,SW
-1682,Spring Age Group Swimming Invitational 2020,2020,2,2020-02-27T00:00:00Z,2020-03-02T00:00:00Z,TPE,Taichung City,Junior Competitions,SW
+1682,Spring Age Group Swimming Invitational 2020,2020,2,2020-02-27T00:00:00Z,2020-03-02T00:00:00Z,TPE,Taichung,Junior Competitions,SW
 1706,Division 1 Part 2 (50m),2020,1,2020-01-12T00:00:00Z,2020-01-12T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
 1733,Hong Kong Age Group Swimming Championships 2019-20 (50m),2019,11,2019-11-01T00:00:00Z,2019-11-03T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
 1737,Division 1 Swimming Competition (part 3) 2019-2020 (50m),2019,9,2019-09-21T00:00:00Z,2019-09-22T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
@@ -1477,7 +1483,6 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1851,3rd Latvian Junior and Youth Championship,2019,5,2019-05-03T00:00:00Z,2019-05-04T00:00:00Z,LAT,Riga,Junior Competitions,SW
 1901,Thailand Age Group Swimming Championships 2019,2019,4,2019-04-05T00:00:00Z,2019-04-10T00:00:00Z,THA,Bangkok,Junior Competitions,SW
 1922,Arena Grand Prix de Natacion Junior,2019,3,2019-03-28T00:00:00Z,2019-03-31T00:00:00Z,MEX,Nuevo Leon,Junior Competitions,SW
-1935,French Junior National Championships (50m),2019,3,2019-03-12T00:00:00Z,2019-03-17T00:00:00Z,FRA,Dunkerke,Junior Competitions,SW
 1956,Walter Rogers Age Group Championships 2019,2019,2,2019-02-21T00:00:00Z,2019-02-24T00:00:00Z,JAM,Kingston,Junior Competitions,SW
 1963,Div.1 Age Group Swimming 2018-19 (50m),2019,1,2019-01-27T00:00:00Z,2019-01-27T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
 1968,Division 1 Competition (Part 2) 2018-19 (50m),2019,1,2019-01-13T00:00:00Z,2019-01-13T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
@@ -1531,14 +1536,13 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2897,National Age Group Championships 2022 (50m),2022,2,2022-02-24T00:00:00Z,2022-02-27T00:00:00Z,TTO,Balmain,Junior Competitions,SW
 2904,Thailand Age Group Swimming Championships 2022,2022,4,2022-04-05T00:00:00Z,2022-04-10T00:00:00Z,THA,Samutr Prakarn,Junior Competitions,SW
 2915,National Spring Age Group Swimming Championships 2022,2022,3,2022-03-10T00:00:00Z,2022-03-14T00:00:00Z,TPE,Taichung,Junior Competitions,SW
-2936,"Campeonatos Nacionais Juvenis, Juniores e Absolutos",2022,3,2022-03-31T00:00:00Z,2022-04-03T00:00:00Z,POR,Coimbra,Junior Competitions,SW
 2942,Antwerp Diamond Speedo Race,2022,4,2022-04-02T00:00:00Z,2022-04-03T00:00:00Z,BEL,Antwerpen,Junior Competitions,SW
 2950,Selectivo Mundial Junior,2022,5,2022-05-04T00:00:00Z,2022-05-07T00:00:00Z,PER,Lima,Junior Competitions,SW
 2975,Division 1 Competition (Part 3) 2022-2023 (50m),2022,6,2022-06-25T00:00:00Z,2022-06-26T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
 2977,Division 1 Competition 2022-2023 (Part 2) (25m),2022,9,2022-09-17T00:00:00Z,2022-09-17T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
 2978,Division 1 Competition 2022-2023 (Part 1) (25m),2022,9,2022-09-03T00:00:00Z,2022-09-04T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
 2983,National Age Group Championships 2021 (25m),2022,7,2022-07-20T00:00:00Z,2022-07-24T00:00:00Z,TTO,Couva,Junior Competitions,SW
-2985,National Age Group Swimming Championships,2022,7,2022-07-13T00:00:00Z,2022-07-16T00:00:00Z,GRE,Athens,Junior Competitions,SW
+2985,National Age Group Championships,2022,7,2022-07-13T00:00:00Z,2022-07-16T00:00:00Z,GRE,Athens,Junior Competitions,SW
 3000,European Youth Olympic Festival 2022,2022,7,2022-07-25T00:00:00Z,2022-07-30T00:00:00Z,SVK,Banska Bystrica,Junior Competitions,SW
 3030,Journée des Jeunes Espoirs 2022,2022,10,2022-10-22T00:00:00Z,2022-10-23T00:00:00Z,LUX,Ettelbruck,Junior Competitions,SW
 3041,Division 1 Competition (Part 1) 2022-2023 (50m) / CANCELLED,2022,11,2022-11-19T00:00:00Z,2022-11-20T00:00:00Z,HKG,Hong Kong,Junior Competitions,SW
@@ -1550,6 +1554,9 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3130,5th Latvian Junior and Youth Championship,2023,4,2023-04-28T00:00:00Z,2023-04-30T00:00:00Z,LAT,Riga,Junior Competitions,SW
 3136,58th Malaysia Invitational Age Group Swimming Championships,2023,4,2023-04-13T00:00:00Z,2023-04-16T00:00:00Z,MAS,Kuala Lumpur,Junior Competitions,SW
 3156,Australian Age Championships 2023,2023,4,2023-04-09T00:00:00Z,2023-04-15T00:00:00Z,AUS,Gold Coast,Junior Competitions,SW
+3224,National Spring Age Group Swimming Championship 2023,2023,3,2023-03-02T00:00:00Z,2023-03-06T00:00:00Z,TPE,Taichung,Junior Competitions,SW
+3227,Thailand Age Group Swimming Championships 2023,2023,4,2023-04-06T00:00:00Z,2023-04-11T00:00:00Z,THA,Samut Prakan,Junior Competitions,SW
+3259,National Age Group Championships,2023,7,2023-07-14T00:00:00Z,2023-07-17T00:00:00Z,GRE,Athens,Junior Competitions,SW
 1224,South Africa National Junior Championships (50m),2019,3,2019-03-20T00:00:00Z,2019-03-24T00:00:00Z,RSA,Durban,Junior National Championships,SW
 1262,Ontario Junior International 2017,2017,12,2017-12-15T00:00:00Z,2017-12-17T00:00:00Z,CAN,Toronto,Junior National Championships,SW
 1287,Synchro US Junior Olympic Championship,2016,6,2016-06-24T00:00:00Z,2016-07-02T00:00:00Z,USA,Long Island,Junior National Championships,SY
@@ -1559,14 +1566,14 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1433,Paraguay Junior National Championships (50m),2021,4,2021-04-21T00:00:00Z,2021-04-24T00:00:00Z,PAR,Asuncion,Junior National Championships,SW
 1435,French Junior National Championships (50m) - CANCELLED,2021,4,2021-04-20T00:00:00Z,2021-04-25T00:00:00Z,FRA,Chalon s/Saone,Junior National Championships,SW
 1484,Estonian Junior National Championships (50m),2021,6,2021-06-20T00:00:00Z,2021-06-22T00:00:00Z,EST,Tartu,Junior National Championships,SW
-1488,National Age Group Swimming Championships - CANCELLED,2021,7,2021-07-01T00:00:00Z,2021-07-31T00:00:00Z,VIE,Ho Chi Min City,Junior National Championships,SW
-1490,Venezuela Junior National Championships (50m),2021,5,2021-05-28T00:00:00Z,2021-05-30T00:00:00Z,VEN,Caracas,Junior National Championships,SW
+1488,National Age Group Swimming Championships - CANCELLED,2021,7,2021-07-01T00:00:00Z,2021-07-31T00:00:00Z,VIE,Ho Chi Minh,Junior National Championships,SW
+1490,Venezuelan Junior National Championships (50m),2021,5,2021-05-28T00:00:00Z,2021-05-30T00:00:00Z,VEN,Caracas,Junior National Championships,SW
 1631,Estonian Junior National Championships (25m),2020,11,2020-11-20T00:00:00Z,2020-11-22T00:00:00Z,EST,Tallin,Junior National Championships,SW
 1688,Jamaican Junior National Championships (50m),2020,2,2020-02-20T00:00:00Z,2020-02-23T00:00:00Z,JAM,Kingston,Junior National Championships,SW
 1692,Trinidad and Tobago Junior National Championships,2020,2,2020-02-12T00:00:00Z,2020-02-16T00:00:00Z,TTO,Balmain,Junior National Championships,SW
 1744,Italian National Junior Championships (50m),2019,8,2019-08-05T00:00:00Z,2019-08-07T00:00:00Z,ITA,Rome,Junior National Championships,SW
 1749,Italian National Junior Championships (50m),2019,8,2019-08-01T00:00:00Z,2019-08-04T00:00:00Z,ITA,Rome,Junior National Championships,SW
-1759,Vietnam National Junior Championships (50m),2019,7,2019-07-14T00:00:00Z,2019-07-18T00:00:00Z,VIE,Hanoie,Junior National Championships,SW
+1759,Vietnam National Junior Championships (50m),2019,7,2019-07-14T00:00:00Z,2019-07-18T00:00:00Z,VIE,Hanoi,Junior National Championships,SW
 1791,Hungarian Junior National Championships (50m),2019,6,2019-06-19T00:00:00Z,2019-06-22T00:00:00Z,HUN,Kecskemet,Junior National Championships,SW
 1813,Slovakia Summer Junior National Championships (50m),2019,5,2019-05-31T00:00:00Z,2019-06-02T00:00:00Z,SVK,Bratislava,Junior National Championships,SW
 1817,Turkish Junior National Championships (50m),2019,5,2019-05-29T00:00:00Z,2019-06-02T00:00:00Z,TUR,Istanbul,Junior National Championships,SW
@@ -1574,16 +1581,17 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1819,German Junior National Championships (50m) 2019,2019,5,2019-05-28T00:00:00Z,2019-06-01T00:00:00Z,GER,Berlin,Junior National Championships,SW
 1905,Portuguese Junior National Championships (50m),2019,4,2019-04-04T00:00:00Z,2019-04-07T00:00:00Z,POR,Coimbra,Junior National Championships,SW
 1908,Turkey Junior National Championships (50m),2019,4,2019-04-03T00:00:00Z,2019-04-07T00:00:00Z,TUR,Edrine,Junior National Championships,SW
+1935,French Junior National Championships (50m),2019,3,2019-03-12T00:00:00Z,2019-03-17T00:00:00Z,FRA,Dunkerke,Junior National Championships,SW
 2027,Canadian Junior National Championships (50m),2018,7,2018-07-25T00:00:00Z,2018-07-30T00:00:00Z,CAN,Winnipeg,Junior National Championships,SW
 2050,Spanish Junior National Championships (50m),2018,7,2018-07-11T00:00:00Z,2018-07-15T00:00:00Z,ESP,Mairena del Aljarafe,Junior National Championships,SW
-2087,Argentina Open Winter Youth National Championships,2018,5,2018-05-30T00:00:00Z,2018-06-02T00:00:00Z,ARG,Buenos Aires,Junior National Championships,SW
+2087,Argentinian Open Winter Youth National Championships,2018,5,2018-05-30T00:00:00Z,2018-06-02T00:00:00Z,ARG,Buenos Aires,Junior National Championships,SW
 2088,German Junior National Championships (50m) 2018,2018,5,2018-05-29T00:00:00Z,2018-06-02T00:00:00Z,GER,Berlin,Junior National Championships,SW
 2170,Singapore Junior National Championships (50m),2018,3,2018-03-14T00:00:00Z,2018-03-18T00:00:00Z,SGP,Singapore,Junior National Championships,SW
-2194,Argentina Open Summer Youth National Championships,2018,1,2018-01-03T00:00:00Z,2018-01-06T00:00:00Z,ARG,Buenos Aires,Junior National Championships,SW
+2194,Argentinian Open Summer Youth National Championships,2018,1,2018-01-03T00:00:00Z,2018-01-06T00:00:00Z,ARG,Buenos Aires,Junior National Championships,SW
 2202,Turkish Junior National Championships (25m),2017,12,2017-12-18T00:00:00Z,2017-12-20T00:00:00Z,TUR,Istanbul,Junior National Championships,SW
 2243,Canadian Junior National Championships (50m),2017,7,2017-07-26T00:00:00Z,2017-07-31T00:00:00Z,CAN,Toronto,Junior National Championships,SW
 2246,Portuguese Junior National Championships,2017,7,2017-07-20T00:00:00Z,2017-07-23T00:00:00Z,POR,Oeiras,Junior National Championships,SW
-2280,Argentina Open Winter Youth National Championships,2017,5,2017-05-31T00:00:00Z,2017-06-03T00:00:00Z,ARG,Buenos Aires,Junior National Championships,SW
+2280,Argentinian Open Winter Youth National Championships,2017,5,2017-05-31T00:00:00Z,2017-06-03T00:00:00Z,ARG,Buenos Aires,Junior National Championships,SW
 2281,German Junior National Championships (50m) 2017,2017,5,2017-05-29T00:00:00Z,2017-06-02T00:00:00Z,GER,Berlin,Junior National Championships,SW
 2425,Nicaragua Junior National Championships (25m),2019,9,2019-09-27T00:00:00Z,2019-09-28T00:00:00Z,NCA,Managua,Junior National Championships,SW
 2437,Latvian Junior National Championships (25m),2019,11,2019-11-29T00:00:00Z,2019-11-30T00:00:00Z,LAT,Jelgava,Junior National Championships,SW
@@ -1600,6 +1608,8 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2998,Austrian National and Junior Championships (50m) 2022,2022,8,2022-08-04T00:00:00Z,2022-08-08T00:00:00Z,AUT,Wolfsberg,Junior National Championships,SW
 3034,National & Junior National Aquatic Championships 2022,2022,10,2022-10-04T00:00:00Z,2022-10-07T00:00:00Z,SRI,Colombo,Junior National Championships,SW
 3166,German Junior National Championships (50m) 2023,2023,5,2023-05-23T00:00:00Z,2023-05-27T00:00:00Z,GER,Berlin,Junior National Championships,SW
+3201,French Junior National Championships (50m),2023,4,2023-04-05T00:00:00Z,2023-04-10T00:00:00Z,FRA,Chartres,Junior National Championships,SW
+3264,Hungarian Junior National Championships (50m),2023,8,2023-08-02T00:00:00Z,2023-08-05T00:00:00Z,HUN,Debrecen,Junior National Championships,SW
 1346,Mare Nostrum - 33th Meeting International de Natation de Monte Carlo 2015,2015,6,2015-06-13T00:00:00Z,2015-06-14T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
 1513,Mare Nostrum -  Meeting International de Canet-en-Roussillon 2021,2021,6,2021-06-01T00:00:00Z,2021-06-02T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
 1516,Mare Nostrum - 38th Meeting International de Natation de Monte Carlo 2021,2021,5,2021-05-29T00:00:00Z,2021-05-30T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
@@ -1618,7 +1628,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2453,Mare Nostrum - Trofeu Internacional Ciutat de Barcelona 2015,2015,6,2015-06-10T00:00:00Z,2015-06-11T00:00:00Z,ESP,Barcelona,Mare Nostrum Series,SW
 2454,Mare Nostrum -  Meeting International de Canet-en-Roussillon 2015,2015,6,2015-06-06T00:00:00Z,2015-06-07T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
 2455,Mare Nostrum - Trofeu Internacional Ciutat de Barcelona 2014,2014,6,2014-06-14T00:00:00Z,2014-06-15T00:00:00Z,ESP,Barcelona,Mare Nostrum Series,SW
-2456,Mare Nostrum -  Meeting International de Canet-en-Roussillon 2014,2014,6,2014-06-11T00:00:00Z,2014-06-12T00:00:00Z,FRA,Canet-En-Roussillon,Mare Nostrum Series,SW
+2456,Mare Nostrum -  Meeting International de Canet-en-Roussillon 2014,2014,6,2014-06-11T00:00:00Z,2014-06-12T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
 2457,Mare Nostrum -  Meeting International de Canet-en-Roussillon 2013,2013,6,2013-06-15T00:00:00Z,2013-06-16T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
 2458,Mare Nostrum - Trofeu Internacional Ciutat de Barcelona 2013,2013,6,2013-06-11T00:00:00Z,2013-06-12T00:00:00Z,ESP,Barcelona,Mare Nostrum Series,SW
 2459,Mare Nostrum -  Meeting International de Canet-en-Roussillon 2012,2012,6,2012-06-06T00:00:00Z,2012-06-07T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
@@ -1629,20 +1639,22 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2464,Mare Nostrum -  Meeting International de Canet-en-Roussillon 2009,2009,6,2009-06-10T00:00:00Z,2009-06-10T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
 2465,Mare Nostrum - Trofeu Internacional Ciutat de Barcelona 2007,2007,6,2007-06-13T00:00:00Z,2007-06-13T00:00:00Z,ESP,Barcelona,Mare Nostrum Series,SW
 2466,Mare Nostrum - Meeting International de Natation de Monte Carlo 2007,2007,6,2007-06-05T00:00:00Z,2007-06-05T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
-2467,Mare Nostrum -  Meeting International de Canet-en-Roussillon 2003,2003,6,2003-06-15T00:00:00Z,2003-06-15T00:00:00Z,FRA,Canet en Roussillon,Mare Nostrum Series,SW
+2467,Mare Nostrum - Meeting International de Canet-en-Roussillon 2003,2003,6,2003-06-15T00:00:00Z,2003-06-15T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
 2468,Mare Nostrum - Trofeu Internacional Ciutat de Barcelona 2003,2003,6,2003-06-15T00:00:00Z,2003-06-15T00:00:00Z,ESP,Barcelona,Mare Nostrum Series,SW
 2469,Mare Nostrum - Meeting International de Natation de Monte Carlo 2000,2000,5,2000-05-20T00:00:00Z,2000-05-20T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
 2470,Mare Nostrum - Meeting International de Natation de Monte Carlo 1999,1999,6,1999-06-12T00:00:00Z,1999-06-12T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
 2471,Mare Nostrum - Meeting International de Natation de Monte Carlo 1997,1997,5,1997-05-24T00:00:00Z,1997-05-24T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
-2472,Mare Nostrum -  Meeting International de Canet-en-Roussillon 1995,1995,6,1995-06-14T00:00:00Z,1995-06-14T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
+2472,Mare Nostrum - Meeting International de Canet-en-Roussillon 1995,1995,6,1995-06-14T00:00:00Z,1995-06-14T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
 2473,Mare Nostrum - 32th Meeting International de Natation de Monte Carlo 2014,2014,6,2014-06-07T00:00:00Z,2014-06-07T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
 2474,Mare Nostrum - 31st Meeting International de Natation de Monte Carlo 2013,2013,6,2013-06-08T00:00:00Z,2013-06-08T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
 2475,Mare Nostrum - 30st Meeting International de Natation de Monte Carlo 2012,2012,6,2012-06-09T00:00:00Z,2012-06-10T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
 2476,Mare Nostrum - 29th Meeting International de Natation de Monte Carlo 2011,2011,6,2011-06-11T00:00:00Z,2011-06-11T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
-2945,Mare Nostrum - Meeting International de Canet-en-Roussillon 2022,2022,5,2022-05-28T00:00:00Z,2022-05-29T00:00:00Z,FRA,Canet en Roussillon,Mare Nostrum Series,SW
+2945,Mare Nostrum - Meeting International de Canet-en-Roussillon 2022,2022,5,2022-05-28T00:00:00Z,2022-05-29T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
 2946,Mare Nostrum - Trofeu Internacional Ciutat de Barcelona 2022,2022,5,2022-05-25T00:00:00Z,2022-05-26T00:00:00Z,ESP,Barcelona,Mare Nostrum Series,SW
 2947,Mare Nostrum - 39th Meeting International de Natation de Monte Carlo 2022,2022,5,2022-05-21T00:00:00Z,2022-05-22T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
 3177,Mare Nostrum - Trofeu Internacional Ciutat de Barcelona 2023,2023,5,2023-05-17T00:00:00Z,2023-05-18T00:00:00Z,ESP,Barcelona,Mare Nostrum Series,SW
+3199,Mare Nostrum - Meeting International de Canet-en-Roussillon 2023,2023,5,2023-05-13T00:00:00Z,2023-05-14T00:00:00Z,FRA,Canet-en-Roussillon,Mare Nostrum Series,SW
+3256,Mare Nostrum - 40th Meeting International de Natation de Monte Carlo 2023,2023,5,2023-05-20T00:00:00Z,2023-05-21T00:00:00Z,MON,Monaco,Mare Nostrum Series,SW
 2708,18th Mediterranean Games 2018,2018,6,2018-06-23T00:00:00Z,2018-06-25T00:00:00Z,ESP,Tarragona,Mediterranean Games,SW
 1207,Lithuanian Winter National Championships (50m),2021,2,2021-02-18T00:00:00Z,2021-02-20T00:00:00Z,LTU,Klaipeda,National Championships,SW
 1222,South African National Championships (50m),2019,4,2019-04-08T00:00:00Z,2019-04-12T00:00:00Z,RSA,Durban,National Championships,SW
@@ -1689,22 +1701,21 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1470,Belarus National Championships (25m),2021,11,2021-11-11T00:00:00Z,2021-11-13T00:00:00Z,BLR,Brest,National Championships,SW
 1480,Turkey National Championships (50m),2021,5,2021-05-27T00:00:00Z,2021-05-31T00:00:00Z,TUR,Edirne,National Championships,SW
 1482,Lithuanian National Championships (50m),2021,5,2021-05-27T00:00:00Z,2021-05-29T00:00:00Z,LTU,Klaipeda,National Championships,SW
-1485,Argentina National Championships (50m),2021,5,2021-05-19T00:00:00Z,2021-05-22T00:00:00Z,ARG,Buenos Aires,National Championships,SW
+1485,Argentinian National Championships (50m),2021,5,2021-05-19T00:00:00Z,2021-05-22T00:00:00Z,ARG,Buenos Aires,National Championships,SW
 1502,Bahamas National Championships (50m),2021,6,2021-06-24T00:00:00Z,2021-06-27T00:00:00Z,BAH,Nassau,National Championships,SW
 1504,Finnish National Championships (50m),2021,6,2021-06-17T00:00:00Z,2021-06-20T00:00:00Z,FIN,Kuopio,National Championships,SW
-1505,Czech Republic National Championships (50m),2021,6,2021-06-17T00:00:00Z,2021-06-20T00:00:00Z,CZE,Usti Nad Labem,National Championships,SW
+1505,Czech National Championships (50m),2021,6,2021-06-17T00:00:00Z,2021-06-20T00:00:00Z,CZE,Usti Nad Labem,National Championships,SW
 1507,Greek National Championships (50m),2021,6,2021-06-09T00:00:00Z,2021-06-12T00:00:00Z,GRE,Thessaloniki,National Championships,SW
 1508,Colombia National Championships (50m),2021,6,2021-06-15T00:00:00Z,2021-06-20T00:00:00Z,COL,Barranquilla,National Championships,SW
 1509,National French Championships (50m),2021,6,2021-06-15T00:00:00Z,2021-06-20T00:00:00Z,FRA,Chartres,National Championships,SW
 1520,Egypt National Championships (50m),2021,4,2021-04-05T00:00:00Z,2021-04-10T00:00:00Z,EGY,Cairo,National Championships,SW
 1521,South African National Championships (50m),2022,4,2022-04-03T00:00:00Z,2022-04-08T00:00:00Z,RSA,Durban,National Championships,SW
 1523,Spanish Winter National Championships (25m),2021,11,2021-11-25T00:00:00Z,2021-11-28T00:00:00Z,ESP,Palma de Mallorca,National Championships,SW
-1525,Singapore National Swimming Championships (25m),2021,11,2021-11-25T00:00:00Z,2021-11-28T00:00:00Z,SGP,Singapore,National Championships,SW
+1525,9th Singapore National Championships (25m),2021,11,2021-11-25T00:00:00Z,2021-11-28T00:00:00Z,SGP,Singapore,National Championships,SW
 1532,New Zealand National Championships (25m),2021,8,2021-08-17T00:00:00Z,2021-08-17T00:00:00Z,NZL,Auckland,National Championships,SW
 1600,Danish National Championships (50m),2021,7,2021-07-08T00:00:00Z,2021-07-11T00:00:00Z,DEN,Arhus,National Championships,SW
 1602,Malta National Championships (50m),2021,12,2021-12-11T00:00:00Z,2021-12-13T00:00:00Z,MLT,Girza,National Championships,SW
 1606,Turkish National Championships (25m),2020,12,2020-12-20T00:00:00Z,2020-12-24T00:00:00Z,TUR,Istanbul,National Championships,SW
-1609,Lithuanian National Championships (50m),2020,12,2020-12-17T00:00:00Z,2020-12-19T00:00:00Z,LTU,Kaunas,National Championships,SW
 1611,Belarus National Championships (25m),2020,12,2020-12-17T00:00:00Z,2020-12-19T00:00:00Z,BLR,Brest,National Championships,SW
 1612,Irish National Winter Championships (50m),2020,12,2020-12-17T00:00:00Z,2020-12-20T00:00:00Z,IRL,Dublin,National Championships,SW
 1613,Irish National Winter Championships - Heats (25m),2020,12,2020-12-17T00:00:00Z,2020-12-20T00:00:00Z,IRL,Dublin,National Championships,SW
@@ -1713,13 +1724,13 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1622,Tapei National Championships (25m),2020,12,2020-12-10T00:00:00Z,2020-12-14T00:00:00Z,TPE,Minxiong Township,National Championships,SW
 1623,Hungarian National Championships (50m),2020,12,2020-12-08T00:00:00Z,2020-12-12T00:00:00Z,HUN,Kaposvar,National Championships,SW
 1627,Japan National Championships (50m),2020,12,2020-12-03T00:00:00Z,2020-12-06T00:00:00Z,JPN,Tokoy,National Championships,SW
-1630,Kazakhstan National Championship (50m),2020,11,2020-11-23T00:00:00Z,2020-11-29T00:00:00Z,KAZ,Aktobe,National Championships,SW
+1630,Kazakhstan National Championships (50m),2020,11,2020-11-23T00:00:00Z,2020-11-29T00:00:00Z,KAZ,Aktobe,National Championships,SW
 1632,Spanish National Championships (25m),2020,11,2020-11-19T00:00:00Z,2020-12-22T00:00:00Z,ESP,Castellon,National Championships,SW
 1636,Swiss National Championships (25m),2020,11,2020-11-13T00:00:00Z,2020-11-15T00:00:00Z,SUI,Sion,National Championships,SW
 1641,Russian National  Championships (50m),2020,10,2020-10-25T00:00:00Z,2020-10-30T00:00:00Z,RUS,Kazan,National Championships,SW
 1643,South Africa National Championships (25m),2020,10,2020-10-24T00:00:00Z,2020-10-27T00:00:00Z,RSA,Pietermaritzburg,National Championships,SW
 1646,Japan National Championships (25m),2020,10,2020-10-17T00:00:00Z,2020-10-18T00:00:00Z,JPN,Tokyo,National Championships,SW
-1647,Vietnam Swimming Championships (50m),2020,10,2020-10-16T00:00:00Z,2020-10-21T00:00:00Z,VIE,Hi Chi Minh City,National Championships,SW
+1647,Vietnamese National Championships (50m),2020,10,2020-10-16T00:00:00Z,2020-10-21T00:00:00Z,VIE,Ho Chi Minh,National Championships,SW
 1650,Aon New Zealand National Championships (25m),2020,10,2020-10-06T00:00:00Z,2020-10-10T00:00:00Z,NZL,Hamilton,National Championships,SW
 1651,Chinese National Championships (50m),2020,9,2020-09-26T00:00:00Z,2020-10-02T00:00:00Z,CHN,Qingdao,National Championships,SW
 1660,Austria National Championships (50m),2020,8,2020-08-01T00:00:00Z,2020-08-05T00:00:00Z,AUT,Graz,National Championships,SW
@@ -1740,9 +1751,9 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1721,French National Championships (25m),2019,12,2019-12-12T00:00:00Z,2019-12-15T00:00:00Z,FRA,Angers,National Championships,SW
 1722,Finnish National Championships (25m),2019,12,2019-12-12T00:00:00Z,2019-12-15T00:00:00Z,FIN,Tampere,National Championships,SW
 1723,Czech National Championships (25m),2019,12,2019-12-11T00:00:00Z,2019-12-12T00:00:00Z,CZE,Plzen,National Championships,SW
-1724,Argentina National Championships (50m),2019,12,2019-12-11T00:00:00Z,2019-12-14T00:00:00Z,ARG,Buenos Aires,National Championships,SW
+1724,Argentinian National Championships (50m),2019,12,2019-12-11T00:00:00Z,2019-12-14T00:00:00Z,ARG,Buenos Aires,National Championships,SW
 1726,USA Winter National Championships (50m),2019,12,2019-12-04T00:00:00Z,2019-12-08T00:00:00Z,USA,Atlanta,National Championships,SW
-1739,Vietnam National Championships (50m),2019,9,2019-09-20T00:00:00Z,2019-09-25T00:00:00Z,VIE,Da Nang,National Championships,SW
+1739,Vietnamese National Championships (50m),2019,9,2019-09-20T00:00:00Z,2019-09-25T00:00:00Z,VIE,Da Nang,National Championships,SW
 1742,Hong Kong National Swimming Championships (50m),2019,8,2019-08-09T00:00:00Z,2019-08-11T00:00:00Z,HKG,Hong Kong,National Championships,SW
 1750,Austrian National Championships (50m),2019,8,2019-08-01T00:00:00Z,2019-08-04T00:00:00Z,AUT,Innsbruck,National Championships,SW
 1752,Philipps 66 USA National Championships (50m),2019,7,2019-07-31T00:00:00Z,2019-08-04T00:00:00Z,USA,Palo Alto,National Championships,SW
@@ -1759,8 +1770,8 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1780,Cyprus National Championships (50m),2019,6,2019-06-27T00:00:00Z,2019-06-29T00:00:00Z,CYP,Limassol,National Championships,SW
 1786,Dutch National Championships (50m),2019,6,2019-06-21T00:00:00Z,2019-06-23T00:00:00Z,NED,Amersfoort,National Championships,SW
 1787,Crotian National Championships (50m),2019,6,2019-06-21T00:00:00Z,2019-06-23T00:00:00Z,CRO,Zagreb,National Championships,SW
-1790,Czech Republic National Championships (50m),2019,6,2019-06-20T00:00:00Z,2019-06-23T00:00:00Z,CZE,Ceske Budejovice,National Championships,SW
-1792,Singapore National Championships (50m),2019,6,2019-06-19T00:00:00Z,2019-06-22T00:00:00Z,SGP,Singapore,National Championships,SW
+1790,Czech National Championships (50m),2019,6,2019-06-20T00:00:00Z,2019-06-23T00:00:00Z,CZE,Ceske Budejovice,National Championships,SW
+1792,15th Singapore National Championships (50m),2019,6,2019-06-19T00:00:00Z,2019-06-22T00:00:00Z,SGP,Singapore,National Championships,SW
 1793,Bahamas National Championships (50m),2019,6,2019-06-18T00:00:00Z,2019-06-23T00:00:00Z,BAH,Nassau,National Championships,SW
 1794,French National Championships (50m),2019,6,2019-06-18T00:00:00Z,2019-06-19T00:00:00Z,FRA,Chartres,National Championships,SW
 1800,Chinese Summer National Championships (50m),2019,6,2019-06-13T00:00:00Z,2019-06-16T00:00:00Z,CHN,Gangzhou,National Championships,SW
@@ -1772,8 +1783,8 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1859,Faroe Islands National Championships (50m),2019,4,2019-04-26T00:00:00Z,2019-04-28T00:00:00Z,FRO,Vagur,National Championships,SW
 1863,Lithuanian National Championships (50m),2019,4,2019-04-25T00:00:00Z,2019-04-27T00:00:00Z,LTU,Kaunas,National Championships,SW
 1869,Mauritius Winter National Championships (50m),2019,4,2019-04-24T00:00:00Z,2019-04-28T00:00:00Z,MRI,Cote d'Or,National Championships,SW
-1872,Argentina Winter National Championships (50m),2019,4,2019-04-24T00:00:00Z,2019-04-27T00:00:00Z,ARG,Mar del Plata,National Championships,SW
-1874,Venezuela National Winter Championships (50m),2019,4,2019-04-23T00:00:00Z,2019-04-27T00:00:00Z,VEN,Caracas,National Championships,SW
+1872,Argentinian Winter National Championships (50m),2019,4,2019-04-24T00:00:00Z,2019-04-27T00:00:00Z,ARG,Mar del Plata,National Championships,SW
+1874,Venezuelan National Winter Championships (50m),2019,4,2019-04-23T00:00:00Z,2019-04-27T00:00:00Z,VEN,Caracas,National Championships,SW
 1880,Belarus National Championships (50m),2019,4,2019-04-17T00:00:00Z,2019-04-20T00:00:00Z,BLR,Brest,National Championships,SW
 1881,French National Championships (50m),2019,4,2019-04-16T00:00:00Z,2019-04-21T00:00:00Z,FRA,Rennes,National Championships,SW
 1882,British Swimming Championships (50m),2019,4,2019-04-16T00:00:00Z,2019-04-21T00:00:00Z,GBR,Glasgow,National Championships,SW
@@ -1790,6 +1801,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1948,Lithuanian Winter National Championships (50m),2019,3,2019-03-01T00:00:00Z,2019-03-02T00:00:00Z,LTU,Alytus,National Championships,SW
 1979,USA Winter National Championships (50m),2018,11,2018-11-28T00:00:00Z,2018-12-01T00:00:00Z,USA,Greensboro,National Championships,SW
 1983,Swiss National Championships (25m),2018,11,2018-11-16T00:00:00Z,2018-11-18T00:00:00Z,SUI,Uster,National Championships,SW
+1986,Finnish Championship 2018 (25m),2018,11,2018-11-15T00:00:00Z,2018-11-18T00:00:00Z,FIN,Vaasa,National Championships,SW
 1987,Spanish National Championships (25m),2018,11,2018-11-15T00:00:00Z,2018-11-18T00:00:00Z,ESP,Barcelona,National Championships,SW
 1990,Icelandic National Championships (25m),2018,11,2018-11-09T00:00:00Z,2018-11-11T00:00:00Z,ISL,Reykjavik,National Championships,SW
 2003,Faroe Islands National Championships (25m),2018,10,2018-10-26T00:00:00Z,2018-10-28T00:00:00Z,FRO,Torshavn,National Championships,SW
@@ -1834,7 +1846,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2215,Italian National Championships (25m),2017,12,2017-12-01T00:00:00Z,2017-12-02T00:00:00Z,ITA,Riccione,National Championships,SW
 2216,French National Championships (25m),2017,11,2017-11-30T00:00:00Z,2017-12-03T00:00:00Z,FRA,Montpellier,National Championships,SW
 2219,Slovakian National Championships (25m),2017,11,2017-11-24T00:00:00Z,2017-11-26T00:00:00Z,SVK,Samorin,National Championships,SW
-2220,Czech Swimming Championships (25m),2017,11,2017-11-23T00:00:00Z,2017-11-26T00:00:00Z,CZE,Plzen,National Championships,SW
+2220,Czech Winter National Championships (25m),2017,11,2017-11-23T00:00:00Z,2017-11-26T00:00:00Z,CZE,Plzen,National Championships,SW
 2221,Russian National Championships (25m),2017,11,2017-11-18T00:00:00Z,2017-11-22T00:00:00Z,RUS,Kazan,National Championships,SW
 2224,Finnish National Championships (25m),2017,11,2017-11-16T00:00:00Z,2017-11-19T00:00:00Z,FIN,Oulu,National Championships,SW
 2229,Danish National Championships (25m),2017,11,2017-11-09T00:00:00Z,2017-11-12T00:00:00Z,DEN,Copenhague,National Championships,SW
@@ -1851,7 +1863,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2267,Estonian National Championships (50m),2017,6,2017-06-17T00:00:00Z,2017-06-19T00:00:00Z,EST,Tartu,National Championships,SW
 2272,Slovakian National Championships (50m),2017,6,2017-06-16T00:00:00Z,2017-06-18T00:00:00Z,SVK,Bratislava,National Championships,SW
 2273,German National Championships (50m),2017,6,2017-06-15T00:00:00Z,2017-06-18T00:00:00Z,GER,Berlin,National Championships,SW
-2274,Singapore National Championships (50m),2017,6,2017-06-15T00:00:00Z,2017-06-18T00:00:00Z,SGP,Singapore,National Championships,SW
+2274,13th Singapore National Championships (50m),2017,6,2017-06-15T00:00:00Z,2017-06-18T00:00:00Z,SGP,Singapore,National Championships,SW
 2284,Latvian National Championships (50m),2017,5,2017-05-26T00:00:00Z,2017-05-28T00:00:00Z,LAT,Riga,National Championships,SW
 2289,French National Championships (50m),2017,5,2017-05-23T00:00:00Z,2017-05-28T00:00:00Z,FRA,Schiltigheim,National Championships,SW
 2294,Polish National Championships (50m),2017,5,2017-05-18T00:00:00Z,2017-05-21T00:00:00Z,POL,Lublin,National Championships,SW
@@ -2059,10 +2071,12 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2926,Chinese National Championships (25m),2022,10,2022-10-27T00:00:00Z,2022-10-29T00:00:00Z,CHN,Beijing,National Championships,SW
 2929,Spanish Spring National Championships (50m),2022,4,2022-04-09T00:00:00Z,2022-04-13T00:00:00Z,ESP,Torremolinos,National Championships,SW
 2933,Hungarian National Championships (50m),2022,4,2022-04-20T00:00:00Z,2022-04-23T00:00:00Z,HUN,Debrecen,National Championships,SW
-2964,17th Singapore National Swimming Championships 2022,2022,6,2022-06-23T00:00:00Z,2022-06-26T00:00:00Z,SGP,Singapore,National Championships,SW
+2936,Portuguese National Championships (50m),2022,3,2022-03-31T00:00:00Z,2022-04-03T00:00:00Z,POR,Coimbra,National Championships,SW
+2964,17th Singapore National Championships (50m),2022,6,2022-06-23T00:00:00Z,2022-06-26T00:00:00Z,SGP,Singapore,National Championships,SW
 2965,Danish National Championships (50m),2022,6,2022-06-23T00:00:00Z,2022-06-26T00:00:00Z,DEN,Aalborg,National Championships,SW
 2967,Bosnia and Herzegovina Summer National Championships (50m),2022,6,2022-06-18T00:00:00Z,2022-06-19T00:00:00Z,BIH,Banja Luka - Sarajevo,National Championships,SW
 2972,Bahamas National Championships (50m),2022,7,2022-07-07T00:00:00Z,2022-07-10T00:00:00Z,BAH,Nassau,National Championships,SW
+2980,Apollo Projects New Zealand Championships 2022 (25m),2022,8,2022-08-23T00:00:00Z,2022-08-27T00:00:00Z,NZL,Auckland,National Championships,SW
 2982,Malta National Championships (50m),2022,7,2022-07-14T00:00:00Z,2022-07-17T00:00:00Z,MLT,Gzira,National Championships,SW
 2992,Australian National Championships (25m),2022,8,2022-08-24T00:00:00Z,2022-08-27T00:00:00Z,AUS,Sydney,National Championships,SW
 2993,South African National Championships (25m),2022,8,2022-08-11T00:00:00Z,2022-08-14T00:00:00Z,RSA,Pietermaritzburg,National Championships,SW
@@ -2077,7 +2091,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3100,British National Championships (50m),2023,4,2023-04-05T00:00:00Z,2023-04-09T00:00:00Z,GBR,Sheffield,National Championships,SW
 3101,Japan National Championships 2023 (50m),2023,4,2023-04-04T00:00:00Z,2023-04-09T00:00:00Z,JPN,Tokyo,National Championships,SW
 3110,Greek National Winter Championships (50m),2023,2,2023-02-17T00:00:00Z,2023-02-19T00:00:00Z,GRE,Alexandroupolis,National Championships,SW
-3116,Greek National Championships (50m),2023,5,2023-05-18T00:00:00Z,2023-05-21T00:00:00Z,GRE,Athens,National Championships,SW
+3116,Greek National Championships (50m),2023,5,2023-05-18T00:00:00Z,2023-05-21T00:00:00Z,GRE,TBC,National Championships,SW
 3121,Croatian National Championships (50m),2023,6,2023-06-09T00:00:00Z,2023-06-11T00:00:00Z,CRO,Zagreb,National Championships,SW
 3122,Croatian National Championships Teams,2023,5,2023-05-20T00:00:00Z,2023-05-21T00:00:00Z,CRO,Split,National Championships,SW
 3144,Phillips 66 National Championships (50m) 27.06 - 01.07.2023,2023,6,2023-06-11T00:00:00Z,2023-06-11T00:00:00Z,USA,Indianapolis,National Championships,SW
@@ -2090,6 +2104,31 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3190,South African National Championships (50m),2023,4,2023-04-11T00:00:00Z,2023-04-16T00:00:00Z,RSA,Gqeberha,National Championships,SW
 3195,Ukrainian National Championships - Brovary,2023,5,2023-05-04T00:00:00Z,2023-05-07T00:00:00Z,UKR,Brovary,National Championships,SW
 3196,Ukrainian National Championships - Kharkiv,2023,3,2023-03-09T00:00:00Z,2023-03-12T00:00:00Z,UKR,Kharkiv,National Championships,SW
+3197,Lithuanian Winter National Championships (50m),2023,2,2023-02-16T00:00:00Z,2023-02-18T00:00:00Z,LTU,Alytus,National Championships,SW
+3200,Lithuanian National Championships (50m),2023,4,2023-04-12T00:00:00Z,2023-04-15T00:00:00Z,LTU,Kaunas,National Championships,SW
+3219,Hungarian National Championships (50m),2023,4,2023-04-19T00:00:00Z,2023-04-22T00:00:00Z,HUN,Kaposvar,National Championships,SW
+3222,Argentinian National Championships (50m),2023,4,2023-04-26T00:00:00Z,2023-04-29T00:00:00Z,ARG,Buenos Aires,National Championships,SW
+3229,Chinese National Championships (50m),2023,5,2023-05-01T00:00:00Z,2023-05-06T00:00:00Z,CHN,Hangzhou,National Championships,SW
+3230,Chinese Spring National Championships,2023,3,2023-03-19T00:00:00Z,2023-03-24T00:00:00Z,CHN,Qingdao,National Championships,SW
+3233,Portuguese National Championships (50m),2023,3,2023-03-30T00:00:00Z,2023-04-02T00:00:00Z,POR,Funchal,National Championships,SW
+3240,Malta National Championships (50m),2023,6,2023-06-29T00:00:00Z,2023-07-01T00:00:00Z,MLT,Gzira,National Championships,SW
+3242,Austrian National Championships (50m),2023,8,2023-08-03T00:00:00Z,2023-08-06T00:00:00Z,AUT,Kapfenberg,National Championships,SW
+3243,Lithuanian Summer National Championships (50m),2023,7,2023-07-20T00:00:00Z,2023-07-21T00:00:00Z,LTU,Kaunas,National Championships,SW
+3244,Norwegian National Championships (50m),2023,7,2023-07-01T00:00:00Z,2023-07-04T00:00:00Z,NOR,Fredrikstad,National Championships,SW
+3249,Apollo Projects New Zealand National Championships 2023 (50m),2023,4,2023-04-01T00:00:00Z,2023-04-05T00:00:00Z,NZL,Auckland,National Championships,SW
+3250,Czech National Championships (50m),2023,6,2023-06-29T00:00:00Z,2023-07-02T00:00:00Z,CZE,Prague,National Championships,SW
+3251,Spanish Summer National Championships (50m),2023,7,2023-07-26T00:00:00Z,2023-07-30T00:00:00Z,ESP,TBD,National Championships,SW
+3252,Vietnamese National Championships (50m),2023,10,2023-10-10T00:00:00Z,2023-10-15T00:00:00Z,VIE,Ho Chi Minh,National Championships,SW
+3258,Kazakhstan National Championships (50m),2023,3,2023-03-27T00:00:00Z,2023-03-31T00:00:00Z,KAZ,Taldykorgan,National Championships,SW
+3261,Danish National Championships (50m),2023,6,2023-06-22T00:00:00Z,2023-06-25T00:00:00Z,DEN,Aalborg,National Championships,SW
+3262,18th Singapore National Championships (50m),2023,6,2023-06-21T00:00:00Z,2023-06-24T00:00:00Z,SGP,Singapore,National Championships,SW
+3279,Bahamas National Championships (50m),2023,6,2023-06-15T00:00:00Z,2023-06-18T00:00:00Z,BAH,Nassau,National Championships,SW
+3282,Romanian National Championships (50m),2023,4,2023-04-05T00:00:00Z,2023-04-09T00:00:00Z,ROU,Otopeni,National Championships,SW
+3284,Slovenian Open National Championships (50m),2023,7,2023-07-29T00:00:00Z,2023-07-31T00:00:00Z,SLO,Kranj,National Championships,SW
+3285,Finnish National Championships (50m),2023,6,2023-06-15T00:00:00Z,2023-06-18T00:00:00Z,FIN,Pori,National Championships,SW
+3286,German National Championships (50m),2023,7,2023-07-06T00:00:00Z,2023-07-09T00:00:00Z,GER,Berlin,National Championships,SW
+3289,Estonian National Championships (50m),2023,5,2023-05-11T00:00:00Z,2023-05-13T00:00:00Z,EST,Tallinn,National Championships,SW
+3293,Swedish National Championships (50m),2023,6,2023-06-28T00:00:00Z,2023-07-02T00:00:00Z,SWE,Umea,National Championships,SW
 1197,14th Trofeo CN Sabadell - Memorial Paulus Wildeboer - Grand Prix International RFEN,2021,2,2021-02-27T00:00:00Z,2021-02-28T00:00:00Z,ESP,Sabadell,Open,SW
 1198,Open Arena Grand Prix,2021,2,2021-02-27T00:00:00Z,2021-02-28T00:00:00Z,POL,Ostrowiec,Open,SW
 1199,Grand Prix Durban 2021,2021,2,2021-02-26T00:00:00Z,2021-02-28T00:00:00Z,RSA,Durban,Open,SW
@@ -2107,7 +2146,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1230,New Year's International Swimming 2018,2018,12,2018-12-22T00:00:00Z,2018-12-22T00:00:00Z,BIH,Banja Luka,Open,SW
 1233,AUSC - Region 5 Under 20 Youth Games,2018,12,2018-12-08T00:00:00Z,2018-12-11T00:00:00Z,BOT,Gaborone,Open,SW
 1237,Head Cup 2018,2018,10,2018-10-13T00:00:00Z,2018-10-14T00:00:00Z,BIH,Sarajevo,Open,SW
-1238,Trofeu Jose Finkel 2018,2018,8,2018-08-24T00:00:00Z,2018-08-28T00:00:00Z,BRA,Sao Paulo,Open,SW
+1238,Jose Finkel Trophy 2018,2018,8,2018-08-24T00:00:00Z,2018-08-28T00:00:00Z,BRA,Sao Paulo,Open,SW
 1239,LXII. Orszagos Serduelo Bajnoksag / Hungarian National Youth Championships,2018,7,2018-07-25T00:00:00Z,2018-07-28T00:00:00Z,HUN,Gyoer,Open,SW
 1240,Orka - Arena Cup 2018,2018,6,2018-06-30T00:00:00Z,2018-06-30T00:00:00Z,BIH,Mostar,Open,SW
 1241,Budapest Championship,2018,6,2018-06-27T00:00:00Z,2018-06-30T00:00:00Z,HUN,Budapest,Open,SW
@@ -2170,7 +2209,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1340,Open CUP  of The Republic of Belarus ,2015,7,2015-07-15T00:00:00Z,2015-07-18T00:00:00Z,BLR,Brest,Open,SW
 1341,Mediterranean Diving Cup - COMEN,2015,7,2015-07-14T00:00:00Z,2015-07-16T00:00:00Z,EGY,Cairo,Open,DV
 1342,15th Pacific Games 2015,2015,7,2015-07-06T00:00:00Z,2015-07-12T00:00:00Z,PNG,Port Moresby,Open,SW
-1344,XXI Mediterranean Swimming Cup,2015,7,2015-07-04T00:00:00Z,2015-07-05T00:00:00Z,GRE,Alexandroupoli,Open,SW
+1344,21st Mediterranean Swimming Cup,2015,7,2015-07-04T00:00:00Z,2015-07-05T00:00:00Z,GRE,Alexandroupoli,Open,SW
 1345,CXVII. National Championship in Memory of Tamas Sz,2015,6,2015-06-27T00:00:00Z,2015-07-04T00:00:00Z,HUN,Gyor,Open,SW
 1347,National Open Swimming Championships,2015,6,2015-06-12T00:00:00Z,2015-06-14T00:00:00Z,GRE,Alimos,Open,SW
 1348,24th Annual Aquatic Centre International,2015,6,2015-06-05T00:00:00Z,2015-06-07T00:00:00Z,BAR,Christ Church,Open,SW
@@ -2192,11 +2231,11 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1376,UANA Cup,2015,1,2015-01-28T00:00:00Z,2015-02-01T00:00:00Z,CAN,Toronto,Open,WP
 1377,Reykjavik International 2015,2015,1,2015-01-16T00:00:00Z,2015-01-18T00:00:00Z,ISL,Laugardalslaug,Open,SW
 1386,Laviaarit / CANCELLED,2021,5,2021-05-22T00:00:00Z,2021-05-23T00:00:00Z,FIN,Espoo,Open,SW
-1387,Tampereen avoimet / CANCELLED,2021,5,2021-05-08T00:00:00Z,2021-05-09T00:00:00Z,FIN,Tampere,Open,SW
+1387,Tampere Open / CANCELLED,2021,5,2021-05-08T00:00:00Z,2021-05-09T00:00:00Z,FIN,Tampere,Open,SW
 1389,Copa Marcelo Salado / CANCELLED,2021,3,2021-03-27T00:00:00Z,2021-04-02T00:00:00Z,CUB,Havana,Open,SW
 1391,Open Arena Grand Prix,2021,3,2021-03-27T00:00:00Z,2021-03-28T00:00:00Z,POL,Lublin,Open,SW
 1392,Grand Prix Ostrava - CANCELLED,2021,3,2021-03-26T00:00:00Z,2021-03-28T00:00:00Z,CZE,Ostrava,Open,SW
-1395,Oskarin Uinnit,2021,3,2021-03-20T00:00:00Z,2021-03-21T00:00:00Z,FIN,Jyvaskyla,Open,SW
+1395,Oskarin Meet,2021,3,2021-03-20T00:00:00Z,2021-03-21T00:00:00Z,FIN,Jyvaskyla,Open,SW
 1396,38th International Hi-Point Meeting,2021,3,2021-03-20T00:00:00Z,2021-03-21T00:00:00Z,SUI,Zurich,Open,SW
 1398,Bergen Swim Festival 2021,2021,6,2021-06-11T00:00:00Z,2021-06-13T00:00:00Z,NOR,Bergen,Open,SW
 1399,SNSW State Open Championships 2021,2021,3,2021-03-18T00:00:00Z,2021-03-21T00:00:00Z,AUS,Sydney,Open,SW
@@ -2217,7 +2256,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1442,Danish Open 2021,2021,4,2021-04-17T00:00:00Z,2021-04-21T00:00:00Z,DEN,Copenhagen,Open,SW
 1448,Uzbekistan Open Summer Swimming Championships / INVALIDATED,2021,4,2021-04-12T00:00:00Z,2021-04-17T00:00:00Z,UZB,Tashkent,Open,SW
 1449,Arena Grand Prix,2021,4,2021-04-10T00:00:00Z,2021-04-11T00:00:00Z,POL,Warsaw,Open,SW
-1454,28th Easter International Swimming Meeting - CANCELLED,2021,4,2021-04-08T00:00:00Z,2021-04-10T00:00:00Z,MLT,Girza,Open,SW
+1454,28th Easter International Swim Meet - CANCELLED,2021,4,2021-04-08T00:00:00Z,2021-04-10T00:00:00Z,MLT,Girza,Open,SW
 1455,Eindhoven Qualification Meet 2021,2021,4,2021-04-08T00:00:00Z,2021-04-11T00:00:00Z,NED,Eindhoven,Open,SW
 1456,Malmsten Swim Open Stockholm 2021,2021,4,2021-04-08T00:00:00Z,2021-04-11T00:00:00Z,SWE,Stockholm,Open,SW
 1465,Estonian-Latvian Spring Meet 2021,2021,4,2021-04-03T00:00:00Z,2021-04-04T00:00:00Z,LAT,Riga,Open,SW
@@ -2231,7 +2270,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1476,Grand Prix Burgas,2021,5,2021-05-28T00:00:00Z,2021-05-30T00:00:00Z,BUL,Burgas,Open,SW
 1477,29th Aquatic Center International,2021,10,2021-10-08T00:00:00Z,2021-10-10T00:00:00Z,BAR,Bridgetown,Open,SW
 1478,British Swimming Glasgow Open Meet,2021,6,2021-06-03T00:00:00Z,2021-06-06T00:00:00Z,GBR,Glasgow,Open,SW
-1479,Grand Prix Internacional SYC,2021,5,2021-05-27T00:00:00Z,2021-05-29T00:00:00Z,PAR,Asuncion,Open,SW
+1479,Grand Prix SYC 2021,2021,5,2021-05-27T00:00:00Z,2021-05-29T00:00:00Z,PAR,Asuncion,Open,SW
 1483,Campeonato Internacional Ciudad de Cali,2021,3,2021-03-24T00:00:00Z,2021-03-28T00:00:00Z,COL,Palmira,Open,SW
 1486,Malaysia National Championships (50m),2021,6,2021-06-11T00:00:00Z,2021-06-13T00:00:00Z,MAS,Kuala Lumpur,Open,SW
 1487,Puerto Rico International Swimming Open,2021,5,2021-05-20T00:00:00Z,2021-05-23T00:00:00Z,PUR,Salinas,Open,SW
@@ -2254,6 +2293,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1605,Open Nationals (50m),2020,12,2020-12-22T00:00:00Z,2020-12-23T00:00:00Z,FIJ,Suva,Open,SW
 1607,Open de Jamor,2020,12,2020-12-19T00:00:00Z,2020-12-20T00:00:00Z,POR,Jamor,Open,SW
 1608,Winter Challenge,2020,12,2020-12-18T00:00:00Z,2020-12-20T00:00:00Z,SUI,Zurich,Open,SW
+1609,Lithuanian Open Winter Championships,2020,12,2020-12-17T00:00:00Z,2020-12-19T00:00:00Z,LTU,Kaunas,Open,SW
 1610,Italian Open Swimming Championships,2020,12,2020-12-17T00:00:00Z,2020-12-20T00:00:00Z,ITA,Riccione,Open,SW
 1616,XIV Gyor Open,2020,12,2020-12-16T00:00:00Z,2020-12-19T00:00:00Z,HUN,Gyor,Open,SW
 1618,Winter Olympic Qualifying Meet,2020,12,2020-12-12T00:00:00Z,2020-12-13T00:00:00Z,MLT,Girza,Open,SW
@@ -2265,14 +2305,14 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1628,Rotterdam Qualification Meet 2020,2020,12,2020-12-03T00:00:00Z,2020-12-06T00:00:00Z,NED,Rotterdam,Open,SW
 1629,Uzbekistan Open Swimming Championships,2020,11,2020-11-24T00:00:00Z,2020-11-29T00:00:00Z,UZB,Tashkent,Open,SW
 1635,Finnish Open Grand Prix,2020,11,2020-11-14T00:00:00Z,2020-11-15T00:00:00Z,FIN,Oulu,Open,SW
-1637,Campeonato Nacional 1ra Etapa,2020,11,2020-11-11T00:00:00Z,2020-11-14T00:00:00Z,PAR,Asuncion,Open,SW
+1637,National Championships #1,2020,11,2020-11-11T00:00:00Z,2020-11-14T00:00:00Z,PAR,Asuncion,Open,SW
 1638,"8th International Sprint Festival ""Riga Sprint 2020""",2020,11,2020-11-06T00:00:00Z,2020-11-07T00:00:00Z,LAT,Riga,Open,SW
 1639,Grand Prix Burgas,2020,11,2020-11-06T00:00:00Z,2020-11-08T00:00:00Z,BUL,Burgas,Open,SW
 1640,North Sea Swim Meet 2020,2020,10,2020-10-30T00:00:00Z,2020-11-01T00:00:00Z,NOR,Stavanger,Open,SW
 1645,HPC-trainingswedstrijd,2020,10,2020-10-17T00:00:00Z,2020-10-18T00:00:00Z,NED,Amsterdam,Open,SW
 1648,Spring Prix of Zilina,2020,10,2020-10-09T00:00:00Z,2020-10-11T00:00:00Z,SVK,Zilina,Open,SW
 1649,6th International Tournament Briz,2020,10,2020-10-09T00:00:00Z,2020-10-11T00:00:00Z,BUL,Burgas,Open,SW
-1652,Martti Ollgren Uinnit,2020,9,2020-09-26T00:00:00Z,2020-09-26T00:00:00Z,FIN,Tampere,Open,SW
+1652,Martti Ollgren Meet,2020,9,2020-09-26T00:00:00Z,2020-09-26T00:00:00Z,FIN,Tampere,Open,SW
 1653,Speedo Cup,2020,9,2020-09-19T00:00:00Z,2020-09-20T00:00:00Z,FIN,Espoo,Open,SW
 1654,Black Sea Cup Third Edition 2020,2020,9,2020-09-04T00:00:00Z,2020-09-09T00:00:00Z,BUL,Varna,Open,SW
 1655,Bulgarian Open Championships,2020,8,2020-08-27T00:00:00Z,2020-08-30T00:00:00Z,BUL,Sofia,Open,SW
@@ -2281,8 +2321,8 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1659,101st Estonian Open Championships (50m),2020,8,2020-08-04T00:00:00Z,2020-08-06T00:00:00Z,EST,Tartu,Open,SW
 1661,Ravne 20,2020,8,2020-08-01T00:00:00Z,2020-08-02T00:00:00Z,SLO,Ravne,Open,SW
 1663,Open Cup of Belarus,2020,7,2020-07-14T00:00:00Z,2020-07-18T00:00:00Z,BLR,Brest,Open,SW
-1665,Tampereen Avoimet Mestaruusunnit,2020,6,2020-06-13T00:00:00Z,2020-06-13T00:00:00Z,FIN,Tampere,Open,SW
-1666,Zhong-Zheng Cup National Swimming Championships 2020,2020,6,2020-06-10T00:00:00Z,2020-06-15T00:00:00Z,TPE,Taichung City,Open,SW
+1665,Tampere Open Championships,2020,6,2020-06-13T00:00:00Z,2020-06-13T00:00:00Z,FIN,Tampere,Open,SW
+1666,Zhong-Zheng Cup National Swimming Championships 2020,2020,6,2020-06-10T00:00:00Z,2020-06-15T00:00:00Z,TPE,Taichung,Open,SW
 1667,SH Asvallamot,2020,3,2020-03-14T00:00:00Z,2020-03-15T00:00:00Z,ISL,Hafnarfjordur,Open,SW
 1668,Essener Swim and Fun Days,2020,3,2020-03-13T00:00:00Z,2020-03-15T00:00:00Z,GER,Essen,Open,SW
 1669,Edinburgh International Swim Meet,2020,3,2020-03-13T00:00:00Z,2020-03-15T00:00:00Z,GBR,Edinburgh,Open,SW
@@ -2296,7 +2336,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1683,Flemish Championships 2020,2020,2,2020-02-21T00:00:00Z,2020-02-23T00:00:00Z,BEL,Antwerp,Open,SW
 1685,South Africa Grand Prix - KZ 2020,2020,2,2020-02-21T00:00:00Z,2020-02-23T00:00:00Z,RSA,Durban,Open,SW
 1689,Speedo-FFBN Open Championships 2020,2020,2,2020-02-15T00:00:00Z,2020-02-16T00:00:00Z,BEL,Charleroi,Open,SW
-1690,Madwave Challenge,2020,2,2020-02-15T00:00:00Z,2020-02-16T00:00:00Z,EST,Tartu,Open,SW
+1690,Madwave Challenge (50m) 2020,2020,2,2020-02-15T00:00:00Z,2020-02-16T00:00:00Z,EST,Tartu,Open,SW
 1691,18th Meeting del Titano,2020,2,2020-02-15T00:00:00Z,2020-02-16T00:00:00Z,SMR,Serravalle,Open,SW
 1693,"HPS HEP Grand Prix ""Victoria""",2020,2,2020-02-08T00:00:00Z,2020-02-09T00:00:00Z,CRO,Rijka,Open,SW
 1697,South Africa Grand Prix - CT 2020,2020,1,2020-01-31T00:00:00Z,2020-02-02T00:00:00Z,RSA,Cape Town,Open,SW
@@ -2321,7 +2361,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1771,Circuito Open Comunidad de Madrid,2019,6,2019-06-29T00:00:00Z,2019-06-30T00:00:00Z,ESP,Madrid,Open,SW
 1778,Scottish National Open Swimming Championships,2019,6,2019-06-27T00:00:00Z,2019-06-30T00:00:00Z,GBR,Aberdeen,Open,SW
 1782,Budapest Open,2019,6,2019-06-26T00:00:00Z,2019-06-29T00:00:00Z,HUN,Budapest,Open,SW
-1783,Belgrade Trophy,2019,6,2019-06-22T00:00:00Z,2019-06-23T00:00:00Z,SRB,Belgrade,Open,SW
+1783,Belgrade Trophy 2019,2019,6,2019-06-22T00:00:00Z,2019-06-23T00:00:00Z,SRB,Belgrade,Open,SW
 1784,46th International Swim Meet Ravne 2019,2019,6,2019-06-22T00:00:00Z,2019-06-23T00:00:00Z,SLO,Ravne,Open,SW
 1788,Mission Viejo Swim Meet of Champions,2019,6,2019-06-20T00:00:00Z,2019-06-23T00:00:00Z,USA,Mission Viejo,Open,SW
 1789,Mission Viejo Swim Meet of Champions - SF,2019,6,2019-06-20T00:00:00Z,2019-06-23T00:00:00Z,USA,Mission Viejo,Open,SW
@@ -2329,7 +2369,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1798,Grand Prix Kranj 19 Open National Championships 2019,2019,6,2019-06-14T00:00:00Z,2019-06-16T00:00:00Z,SLO,Kranj,Open,SW
 1799,Open Slovakian Championships,2019,6,2019-06-14T00:00:00Z,2019-06-16T00:00:00Z,SVK,Zilina,Open,SW
 1808,Black Sea Cup,2019,6,2019-06-07T00:00:00Z,2019-06-09T00:00:00Z,BUL,Varna,Open,SW
-1811,Pori International Swimming ClassicMarsky uinnit,2019,6,2019-06-07T00:00:00Z,2019-06-07T00:00:00Z,FIN,Helsinki,Open,SW
+1811,Marsky Meet 2019,2019,6,2019-06-07T00:00:00Z,2019-06-07T00:00:00Z,FIN,Helsinki,Open,SW
 1812,Santa Clara Swim Club International Meet 2019,2019,6,2019-06-06T00:00:00Z,2019-06-09T00:00:00Z,USA,Santa Clara,Open,SW
 1814,Arena Cup - Prague 2019,2019,5,2019-05-31T00:00:00Z,2019-06-02T00:00:00Z,CZE,Prague,Open,SW
 1815,Japan Open 2019,2019,5,2019-05-30T00:00:00Z,2019-06-02T00:00:00Z,JPN,Tokyo,Open,SW
@@ -2338,7 +2378,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1823,Finis Cup 2019,2019,5,2019-05-25T00:00:00Z,2019-05-26T00:00:00Z,EST,Tartu,Open,SW
 1824,HPS GP ZPK Miting,2019,5,2019-05-25T00:00:00Z,2019-05-26T00:00:00Z,CRO,Zagreb,Open,SW
 1827,NOVA Grand Challenge,2019,5,2019-05-24T00:00:00Z,2019-05-26T00:00:00Z,USA,Irvine,Open,SW
-1829,Meeting Internacional de Coimbra,2019,5,2019-05-24T00:00:00Z,2019-05-26T00:00:00Z,POR,Coimbra,Open,SW
+1829,12th Coimbra Meet,2019,5,2019-05-24T00:00:00Z,2019-05-26T00:00:00Z,POR,Coimbra,Open,SW
 1834,4th ISM Ljubljana City Cup 2019,2019,5,2019-05-18T00:00:00Z,2019-05-19T00:00:00Z,SLO,Ljubljana,Open,SW
 1835,33th Trofeo Int. Villa de Gijon,2019,5,2019-05-18T00:00:00Z,2019-05-19T00:00:00Z,ESP,Villa de Gijon,Open,SW
 1836,Akropolis Swimming Grand Prix,2019,5,2019-05-17T00:00:00Z,2019-05-19T00:00:00Z,GRE,Athens,Open,SW
@@ -2347,7 +2387,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1844,Trofeo Int. Ciudad de Zaragoza,2019,5,2019-05-11T00:00:00Z,2019-05-12T00:00:00Z,ESP,Zaragoza,Open,SW
 1845,Laviaarit,2019,5,2019-05-11T00:00:00Z,2019-05-12T00:00:00Z,FIN,Espoo,Open,SW
 1846,German Open Swimming,2019,5,2019-05-10T00:00:00Z,2019-05-12T00:00:00Z,GER,Essen,Open,SW
-1850,Tampereen avoimet,2019,5,2019-05-04T00:00:00Z,2019-05-05T00:00:00Z,FIN,Tampere,Open,SW
+1850,Tampere Championships,2019,5,2019-05-04T00:00:00Z,2019-05-05T00:00:00Z,FIN,Tampere,Open,SW
 1852,Southern German Championships,2019,5,2019-05-03T00:00:00Z,2019-05-05T00:00:00Z,GER,Freiburg,Open,SW
 1853,Northern German Championships,2019,5,2019-05-03T00:00:00Z,2019-05-05T00:00:00Z,GER,Magdeburg,Open,SW
 1854,Neville Alexander Memorial Swim Meet 2019,2019,5,2019-05-03T00:00:00Z,2019-05-05T00:00:00Z,JAM,Kingston,Open,SW
@@ -2357,11 +2397,11 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1860,Orca Cup 2019,2019,4,2019-04-26T00:00:00Z,2019-04-28T00:00:00Z,SVK,Bratislava,Open,SW
 1861,ATUS Trophy 2019,2019,4,2019-04-26T00:00:00Z,2019-04-28T00:00:00Z,AUT,Graz,Open,SW
 1862,62nd Malaysia Open Swimming Championships 2019,2019,4,2019-04-25T00:00:00Z,2019-04-28T00:00:00Z,MAS,Kuala Lumpur,Open,SW
-1864,26th Easter International Swimming Meeting,2019,4,2019-04-25T00:00:00Z,2019-04-27T00:00:00Z,MLT,Gzira,Open,SW
+1864,26th Easter International Swim Meet,2019,4,2019-04-25T00:00:00Z,2019-04-27T00:00:00Z,MLT,Gzira,Open,SW
 1866,Indonesia Aquatic Festival,2019,4,2019-04-25T00:00:00Z,2019-04-28T00:00:00Z,INA,Jakarta,Open,SW
 1868,Puerto Rico International Swimming Open,2019,4,2019-04-25T00:00:00Z,2019-04-28T00:00:00Z,PUR,San Juan,Open,SW
 1870,11th Gyor Open,2019,4,2019-04-24T00:00:00Z,2019-04-27T00:00:00Z,HUN,Gyor,Open,SW
-1871,Campeonato Nacional de Natacion y Open Internacional 1ra etapa 2019,2019,4,2019-04-24T00:00:00Z,2019-04-27T00:00:00Z,PAR,Asuncion,Open,SW
+1871,National Championships #1 - International Open,2019,4,2019-04-24T00:00:00Z,2019-04-27T00:00:00Z,PAR,Asuncion,Open,SW
 1873,Open Ukrainian Swimming Championships,2019,4,2019-04-23T00:00:00Z,2019-04-26T00:00:00Z,UKR,Kharkiv,Open,SW
 1877,International Siwmming Meet Nioveia,2019,4,2019-04-19T00:00:00Z,2019-04-20T00:00:00Z,GRE,Thessaloniki,Open,SW
 1878,Bulgarian Open Team,2019,4,2019-04-19T00:00:00Z,2019-04-21T00:00:00Z,BUL,Sofia,Open,SW
@@ -2369,7 +2409,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1883,Maria Lenk / Brazil Trophy,2019,4,2019-04-16T00:00:00Z,2019-04-21T00:00:00Z,BRA,Rio de Janeiro,Open,SW
 1884,GHF Australian Age Championships 2019,2019,4,2019-04-15T00:00:00Z,2019-04-22T00:00:00Z,AUS,Adelaide,Open,SW
 1886,Tartu Kevad,2019,4,2019-04-13T00:00:00Z,2019-04-14T00:00:00Z,EST,Tartu,Open,SW
-1887,Campeonato Nacional de Clubes 1e Divisao,2019,4,2019-04-13T00:00:00Z,2019-04-14T00:00:00Z,POR,Jamor,Open,SW
+1887,National Clubs Championships #1,2019,4,2019-04-13T00:00:00Z,2019-04-14T00:00:00Z,POR,Jamor,Open,SW
 1889,10th Copa Chorotega,2019,4,2019-04-12T00:00:00Z,2019-04-15T00:00:00Z,CRC,Nicoya,Open,SW
 1890,Swim Cup Eindhoven,2019,4,2019-04-12T00:00:00Z,2019-04-15T00:00:00Z,NED,Eindhoven,Open,SW
 1891,Grand Prix Burgas,2019,4,2019-04-12T00:00:00Z,2019-04-14T00:00:00Z,BUL,Burgas,Open,SW
@@ -2387,7 +2427,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1915,BB Cup 2019,2019,3,2019-03-30T00:00:00Z,2019-03-31T00:00:00Z,SVK,Banska Bystrica,Open,SW
 1916,Cetus Games,2019,3,2019-03-30T00:00:00Z,2019-03-30T00:00:00Z,FIN,Espoo,Open,SW
 1917,Diddelenger Schwammfest 2019,2019,3,2019-03-30T00:00:00Z,2019-03-31T00:00:00Z,LUX,Luxembourg,Open,SW
-1918,Madwave Challenge,2019,3,2019-03-30T00:00:00Z,2019-03-31T00:00:00Z,EST,Tartu,Open,SW
+1918,Madwave Challenge (50m) 2019,2019,3,2019-03-30T00:00:00Z,2019-03-31T00:00:00Z,EST,Tartu,Open,SW
 1919,18th International Swimming Meeting to Sarajevo with love 2019,2019,3,2019-03-30T00:00:00Z,2019-03-31T00:00:00Z,BIH,Sarajevo,Open,SW
 1920,Egypt Swimming Cup,2019,3,2019-03-29T00:00:00Z,2019-04-18T00:00:00Z,EGY,Cairo,Open,SW
 1921,29th International Gothaer & Friend Meet,2019,3,2019-03-29T00:00:00Z,2019-03-31T00:00:00Z,GER,Magdeburg,Open,SW
@@ -2404,11 +2444,11 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1953,National Spring Age Group Swimming Championships & International Invitation 2019,2019,2,2019-02-28T00:00:00Z,2019-03-03T00:00:00Z,TPE,Taichung,Open,SW
 1954,Antwerp Diamond Speedo Race,2019,2,2019-02-23T00:00:00Z,2019-02-24T00:00:00Z,BEL,Antwerp,Open,SW
 1957,Speedo-FFBN Open Championships 2019,2019,2,2019-02-16T00:00:00Z,2019-02-17T00:00:00Z,BEL,Charleroi,Open,SW
-1958,XXXVI Oskarin Uinnit,2019,2,2019-02-16T00:00:00Z,2019-02-16T00:00:00Z,FIN,Jyvaskyla,Open,SW
+1958,36th Oskarin Meet,2019,2,2019-02-16T00:00:00Z,2019-02-16T00:00:00Z,FIN,Jyvaskyla,Open,SW
 1962,1st International Turkcell Edirne Cup,2019,2,2019-02-08T00:00:00Z,2019-02-10T00:00:00Z,TUR,Edirne,Open,SW
 1964,Swedish Grand Prix 2019,2019,1,2019-01-26T00:00:00Z,2019-01-27T00:00:00Z,SWE,Malmo,Open,SW
 1966,Flanders Swimming Cup 2019,2019,1,2019-01-19T00:00:00Z,2019-01-20T00:00:00Z,BEL,Antwerp,Open,SW
-1969,Campeonato Argentino Open 2019,2019,1,2019-01-10T00:00:00Z,2019-01-13T00:00:00Z,ARG,Buenos Aires,Open,SW
+1969,Argentinian Open Championships 2019,2019,1,2019-01-10T00:00:00Z,2019-01-13T00:00:00Z,ARG,Buenos Aires,Open,SW
 1972,MM Maribor 2018,2018,12,2018-12-22T00:00:00Z,2018-12-23T00:00:00Z,SLO,Maribor,Open,SW
 1973,X Scitec Gyor Open,2018,12,2018-12-19T00:00:00Z,2018-12-22T00:00:00Z,HUN,Gyor,Open,SW
 1974,Christmas Cup,2018,12,2018-12-15T00:00:00Z,2018-12-16T00:00:00Z,SUI,Uster,Open,SW
@@ -2419,7 +2459,6 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1982,35 Spelin in Vesnin Memorial 2018,2018,11,2018-11-17T00:00:00Z,2018-11-18T00:00:00Z,SLO,Kranj,Open,SW
 1984,Plzenske Sprinty 2018 ,2018,11,2018-11-16T00:00:00Z,2018-11-18T00:00:00Z,CZE,Plzen,Open,SW
 1985,Turkcell Turkish National Team Selection Competition (25m),2018,11,2018-11-15T00:00:00Z,2018-11-18T00:00:00Z,TUR,Istanbul,Open,SW
-1986,Suomen lyhyen radan mestaruuskilpailut 2018,2018,11,2018-11-15T00:00:00Z,2018-11-18T00:00:00Z,FIN,Vaasa,Open,SW
 1988,SM/JSM (25m) 2018,2018,11,2018-11-14T00:00:00Z,2018-11-18T00:00:00Z,SWE,Stockholm,Open,SW
 1989,Belgian Championships Open 25m 2018,2018,11,2018-11-10T00:00:00Z,2018-11-11T00:00:00Z,BEL,Gent,Open,SW
 1991,6th International Austrian Open Swimming Champions,2018,11,2018-11-08T00:00:00Z,2018-11-11T00:00:00Z,AUT,Graz,Open,SW
@@ -2435,7 +2474,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2005,Arena Thailand Championships (25m),2018,10,2018-10-21T00:00:00Z,2018-10-23T00:00:00Z,THA,Bangsaothong,Open,SW
 2006,Grand Prix (25m),2018,10,2018-10-20T00:00:00Z,2018-10-21T00:00:00Z,FIN,Jyvaskyla,Open,SW
 2007,Grand Prix Brno,2018,10,2018-10-20T00:00:00Z,2018-10-21T00:00:00Z,CZE,Brno ,Open,SW
-2009,27th International Meeting of St Dizier,2018,10,2018-10-19T00:00:00Z,2018-10-21T00:00:00Z,FRA,Saint Dizier,Open,SW
+2009,27th International Meeting of Saint-Dizier,2018,10,2018-10-19T00:00:00Z,2018-10-21T00:00:00Z,FRA,Saint-Dizier,Open,SW
 2011,Swimming Tournament Briz,2018,10,2018-10-12T00:00:00Z,2018-10-14T00:00:00Z,BUL,Burgas,Open,SW
 2013,AdO Open 2018,2018,9,2018-09-28T00:00:00Z,2018-09-30T00:00:00Z,NOR,Bergen,Open,SW
 2015,72nd Glenmark Senior National Aquatic Championship,2018,9,2018-09-19T00:00:00Z,2018-09-23T00:00:00Z,IND,Trivandrum,Open,SW
@@ -2455,14 +2494,14 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2059,CNCL Elite 18,2018,7,2018-07-03T00:00:00Z,2018-07-09T00:00:00Z,MEX,Veracruz,Open,SW
 2060,New Zealand Open Championships 2018,2018,7,2018-07-02T00:00:00Z,2018-07-06T00:00:00Z,NZL,Auckland,Open,SW
 2062,Speedo Fast Water Meet 2018,2018,6,2018-06-30T00:00:00Z,2018-07-01T00:00:00Z,NED,Amsterdam,Open,SW
-2066,Suomen mestaruuskilpailut 2018,2018,6,2018-06-28T00:00:00Z,2018-07-01T00:00:00Z,FIN,Jyvaskyla,Open,SW
-2067,National Open Championships,2018,6,2018-06-28T00:00:00Z,2018-07-01T00:00:00Z,BUL,Sofia,Open,SW
+2066,Finnish Champinships 2018,2018,6,2018-06-28T00:00:00Z,2018-07-01T00:00:00Z,FIN,Jyvaskyla,Open,SW
+2067,Bulgarian Open Championships,2018,6,2018-06-28T00:00:00Z,2018-07-01T00:00:00Z,BUL,Sofia,Open,SW
 2070,Slovakian National Championships (50m),2018,6,2018-06-22T00:00:00Z,2018-06-24T00:00:00Z,SVK,Bratislava,Open,SW
 2071,Open Dutch Championships,2018,6,2018-06-22T00:00:00Z,2018-06-24T00:00:00Z,NED,Amersfoort,Open,SW
 2073,2018 14th Neo Garden SNSC ,2018,6,2018-06-20T00:00:00Z,2018-06-23T00:00:00Z,SGP,Singapore,Open,SW
 2074,Latvian National Championships (50m),2018,6,2018-06-19T00:00:00Z,2018-06-21T00:00:00Z,LAT,Riga,Open,SW
 2077,Belgrade Trophy 2018,2018,6,2018-06-16T00:00:00Z,2018-06-17T00:00:00Z,SRB,Belgrade,Open,SW
-2081,Marsky Meet,2018,6,2018-06-09T00:00:00Z,2018-06-09T00:00:00Z,FIN,Helsinki,Open,SW
+2081,Marsky Meet 2018,2018,6,2018-06-09T00:00:00Z,2018-06-09T00:00:00Z,FIN,Helsinki,Open,SW
 2084,Arena Keila Cup XVII,2018,6,2018-06-03T00:00:00Z,2018-06-03T00:00:00Z,EST,Keila,Open,SW
 2086,45th Ravne 2018,2018,6,2018-06-02T00:00:00Z,2018-06-03T00:00:00Z,SLO,Ravne,Open,SW
 2092,Grand Prix Pardubice,2018,5,2018-05-25T00:00:00Z,2018-05-27T00:00:00Z,CZE,Pardubice,Open,SW
@@ -2472,7 +2511,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2100,Akropolis Meeting 2018,2018,5,2018-05-11T00:00:00Z,2018-05-13T00:00:00Z,GRE,Athens,Open,SW
 2103,GYMNASIADE 2018,2018,5,2018-05-05T00:00:00Z,2018-05-07T00:00:00Z,MAR,Marrakech,Open,SW
 2104,46th Meeting del Verbano Tenero 2018,2018,5,2018-05-05T00:00:00Z,2018-05-06T00:00:00Z,SUI,Tenero,Open,SW
-2105,Avoimet Mestaruusuinnit 2018,2018,5,2018-05-05T00:00:00Z,2018-05-06T00:00:00Z,FIN,Tampere,Open,SW
+2105,Open Championships 2018,2018,5,2018-05-05T00:00:00Z,2018-05-06T00:00:00Z,FIN,Tampere,Open,SW
 2106,Orca Cup 2018,2018,5,2018-05-04T00:00:00Z,2018-05-06T00:00:00Z,SVK,Bratislava,Open,SW
 2107,61st Malaysia Open Swimming Championships 2018,2018,5,2018-05-03T00:00:00Z,2018-05-06T00:00:00Z,MAS,Kuala Lumpur,Open,SW
 2109,Grand Prix Ostrava,2018,4,2018-04-28T00:00:00Z,2018-04-29T00:00:00Z,CZE,Ostrava,Open,SW
@@ -2484,7 +2523,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2121,ATUS Trophy 2018,2018,4,2018-04-20T00:00:00Z,2018-04-22T00:00:00Z,AUT,Graz,Open,SW
 2122,IM50 2018,2018,4,2018-04-20T00:00:00Z,2018-04-22T00:00:00Z,ISL,Reykjavik,Open,SW
 2123,06-18 Mayaguez International (50m),2018,4,2018-04-19T00:00:00Z,2018-04-22T00:00:00Z,PUR,Mayaguez,Open,SW
-2124,Campeonato Nacional Por Catego,2018,4,2018-04-19T00:00:00Z,2018-04-21T00:00:00Z,VEN,Caracas,Open,SW
+2124,National Championships - Per category,2018,4,2018-04-19T00:00:00Z,2018-04-21T00:00:00Z,VEN,Caracas,Open,SW
 2126,Trofeu Brazil - Maria Lenk,2018,4,2018-04-15T00:00:00Z,2018-04-21T00:00:00Z,BRA,Rio de Janeiro,Open,SW
 2127,Samsung 61st Festival of Sport,2018,4,2018-04-14T00:00:00Z,2018-04-15T00:00:00Z,HKG,Hong Kong,Open,SW
 2128,Schweizer Vereinsmeisterschaften NLB,2018,4,2018-04-14T00:00:00Z,2018-04-15T00:00:00Z,SUI,Uster,Open,SW
@@ -2510,10 +2549,10 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2155,Criteria Nazionali Giovanili Kinder+Sport - Sezione Maschile,2018,3,2018-03-26T00:00:00Z,2018-03-28T00:00:00Z,ITA,Riccione,Open,SW
 2156,Portuguese Junior National Championships (25m),2018,3,2018-03-26T00:00:00Z,2018-03-26T00:00:00Z,POR,Funchal,Open,SW
 2157,Campeonato de Espana Infantil de Invierno,2018,3,2018-03-25T00:00:00Z,2018-03-28T00:00:00Z,ESP,Pontevedra,Open,SW
-2158,Spring of Zilina,2018,3,2018-03-23T00:00:00Z,2018-03-25T00:00:00Z,SVK,Zilina,Open,SW
+2158,Spring Prix of Zilina,2018,3,2018-03-23T00:00:00Z,2018-03-25T00:00:00Z,SVK,Zilina,Open,SW
 2160,Criteria Nazionali Giovanili Kinder+Sport - Sezione Femminile,2018,3,2018-03-23T00:00:00Z,2018-03-25T00:00:00Z,ITA,Riccione,Open,SW
 2162,ARENA Grand Prix de Natacion J,2018,3,2018-03-22T00:00:00Z,2018-03-25T00:00:00Z,MEX,Boca del Rio,Open,SW
-2164,Campeonato Nacional Clubes 1 Division,2018,3,2018-03-17T00:00:00Z,2018-03-18T00:00:00Z,POR,Coimbra,Open,SW
+2164,National Clubs Championships #1,2018,3,2018-03-17T00:00:00Z,2018-03-18T00:00:00Z,POR,Coimbra,Open,SW
 2165,36th International Hi-Point Meeting,2018,3,2018-03-17T00:00:00Z,2018-03-18T00:00:00Z,SUI,Zurich,Open,SW
 2166,Cetus - Games,2018,3,2018-03-17T00:00:00Z,2018-03-17T00:00:00Z,FIN,Espoo,Open,SW
 2167,2018_DOP_50m,2018,3,2018-03-16T00:00:00Z,2018-03-18T00:00:00Z,BUL,Sofia,Open,SW
@@ -2552,7 +2591,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2252,SM 2017,2017,7,2017-07-06T00:00:00Z,2017-07-09T00:00:00Z,FIN,Tampere,Open,SW
 2254,Russian National Swimming Cup,2017,7,2017-07-01T00:00:00Z,2017-07-02T00:00:00Z,RUS,Moscow,Open,SW
 2255,Open de France 2017,2017,7,2017-07-01T00:00:00Z,2017-07-02T00:00:00Z,FRA,Chartres,Open,SW
-2257,National Open Championships,2017,6,2017-06-29T00:00:00Z,2017-07-02T00:00:00Z,BUL,Sofia,Open,SW
+2257,Bulgarian Open Championships,2017,6,2017-06-29T00:00:00Z,2017-07-02T00:00:00Z,BUL,Sofia,Open,SW
 2262,Open National Championships,2017,6,2017-06-23T00:00:00Z,2017-06-25T00:00:00Z,CRO,Rijeka,Open,SW
 2268,Circuito Open Comunidad De Madrid,2017,6,2017-06-17T00:00:00Z,2017-06-18T00:00:00Z,ESP,Madrid,Open,SW
 2270,XVI Medjunarodni Plivacki Miting TROFEJ BEOGRADA 2,2017,6,2017-06-17T00:00:00Z,2017-06-18T00:00:00Z,SRB,Belgrade,Open,SW
@@ -2595,7 +2634,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2415,Coimbra - Rumo a Tóquio 2021,2021,3,2021-03-27T00:00:00Z,2021-03-28T00:00:00Z,POR,Coimbra,Open,SW
 2431,Central Zone Section 3 Spring Speedo Sectionals 2021,2021,3,2021-03-25T00:00:00Z,2021-03-28T00:00:00Z,USA,Indianapolis,Open,SW
 2432,Bosnia and Herzegovina National Championships (25m),2019,12,2019-12-28T00:00:00Z,2019-12-29T00:00:00Z,BIH,Sarajevo,Open,SW
-2483,13th Meeting Cidade de Coimbra,2021,4,2021-04-24T00:00:00Z,2021-04-25T00:00:00Z,POR,Coimbra,Open,SW
+2483,13th Coimbra Meet,2021,4,2021-04-24T00:00:00Z,2021-04-25T00:00:00Z,POR,Coimbra,Open,SW
 2486,CIVE Ettelbruck,2021,4,2021-04-24T00:00:00Z,2021-04-25T00:00:00Z,LUX,Ettelbruck,Open,SW
 2487,Kazakhstan Open Swimming Championships 2021,2021,4,2021-04-14T00:00:00Z,2021-04-17T00:00:00Z,KAZ,Aktobe,Open,SW
 2526,Grand Prix of Kranj 2021,2021,6,2021-06-05T00:00:00Z,2021-06-06T00:00:00Z,SLO,Kranj,Open,SW
@@ -2612,7 +2651,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2630,Golden Orlando,2021,6,2021-06-12T00:00:00Z,2021-06-13T00:00:00Z,CRO,Dubrovnik,Open,SW
 2631,Sumarmot SSI,2021,6,2021-06-05T00:00:00Z,2021-06-06T00:00:00Z,ISL,Hafnarfjordur,Open,SW
 2632,Take5 HP Event,2021,5,2021-05-26T00:00:00Z,2021-05-28T00:00:00Z,CAN,Toronto,Open,SW
-2635,36th Meeting Internacional do Porto,2021,6,2021-06-05T00:00:00Z,2021-06-06T00:00:00Z,POR,Porto,Open,SW
+2635,36th Porto International Meet,2021,6,2021-06-05T00:00:00Z,2021-06-06T00:00:00Z,POR,Porto,Open,SW
 2636,Alberta HP Test Event,2021,5,2021-05-28T00:00:00Z,2021-05-29T00:00:00Z,CAN,Calgary,Open,SW
 2639,North Sea Swim Meet 2021,2021,10,2021-10-29T00:00:00Z,2021-10-31T00:00:00Z,NOR,Stavanger,Open,SW
 2641,Lambertseter Open 2021,2021,9,2021-09-17T00:00:00Z,2021-09-19T00:00:00Z,NOR,Oslo,Open,SW
@@ -2629,14 +2668,14 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2674,Swimmeet Amsterdam,2021,7,2021-07-02T00:00:00Z,2021-07-03T00:00:00Z,NED,Amsterdam,Open,SW
 2677,Next Generation Meet,2021,6,2021-06-26T00:00:00Z,2021-06-27T00:00:00Z,NED,Hengelo,Open,SW
 2678,Hong Kong Age Group Swimming Championships 2021/22 (50m),2021,11,2021-11-05T00:00:00Z,2021-11-07T00:00:00Z,HKG,Hong Kong,Open,SW
-2680,Campeonato Nacional 2da etapa - Open internacional,2021,9,2021-09-08T00:00:00Z,2021-09-11T00:00:00Z,PAR,Asuncion,Open,SW
+2680,National Championships #2 - International Open,2021,9,2021-09-08T00:00:00Z,2021-09-11T00:00:00Z,PAR,Asuncion,Open,SW
 2683,Coupe du trône de natation / CANCELLED,2021,8,2021-08-14T00:00:00Z,2021-08-15T00:00:00Z,MAR,Casablanca,Open,SW
 2684,Jose Finkel Trophy 2021,2021,8,2021-08-10T00:00:00Z,2021-08-14T00:00:00Z,BRA,Sao Paulo,Open,SW
 2687,Division 1 Competition 2021- 2022 (Part 3) (25m) / CANCELLED,2022,1,2022-01-08T00:00:00Z,2022-01-09T00:00:00Z,HKG,Hong Kong,Open,SW
 2688,Division 1 Competition 2021-2022 (Part 2) (25m),2021,9,2021-09-12T00:00:00Z,2021-09-12T00:00:00Z,HKG,Hong Kong,Open,SW
 2695,PSI Swimming National Selection Bubble 2021,2021,10,2021-10-22T00:00:00Z,2021-10-24T00:00:00Z,PHI,New Clark City,Open,SW
 2696,Slovakia Swimming Cup 2021,2021,10,2021-10-22T00:00:00Z,2021-10-24T00:00:00Z,SVK,Samorin,Open,SW
-2697,Spring prix of Zilina,2021,9,2021-09-10T00:00:00Z,2021-09-12T00:00:00Z,SVK,Zilina,Open,SW
+2697,Spring Prix of Zilina,2021,9,2021-09-10T00:00:00Z,2021-09-12T00:00:00Z,SVK,Zilina,Open,SW
 2699,Reykjavik International Games,2022,1,2022-01-28T00:00:00Z,2022-01-30T00:00:00Z,ISL,Reykjavik,Open,SW
 2701,Open Arena Grand Prix,2021,11,2021-11-20T00:00:00Z,2021-11-21T00:00:00Z,POL,Poznan,Open,SW
 2703,PanAmerican Swimming Abu Dhabi Qualifier 2021 / CANCELLED,2021,10,2021-10-14T00:00:00Z,2021-10-17T00:00:00Z,USA,Charlotte,Open,SW
@@ -2644,9 +2683,9 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2707,Mel Zajac Jr. International 2019,2019,5,2019-05-24T00:00:00Z,2019-05-26T00:00:00Z,CAN,Vancouver,Open,SW
 2709,Toyota US Open 2021,2021,12,2021-12-01T00:00:00Z,2021-12-04T00:00:00Z,USA,Greensboro,Open,SW
 2710,19th International Swimming Meeting To Sarajevo with love 2022,2022,4,2022-04-02T00:00:00Z,2022-04-03T00:00:00Z,BIH,Sarajevo,Open,SW
-2713,Selectivo Open Argentina,2021,10,2021-10-28T00:00:00Z,2021-10-30T00:00:00Z,ARG,Buenos Aires,Open,SW
+2713,Open Qualifying Meet,2021,10,2021-10-28T00:00:00Z,2021-10-30T00:00:00Z,ARG,Buenos Aires,Open,SW
 2717,Bundesstuetzpunktwettkampf Magdeburg 2021,2021,12,2021-12-10T00:00:00Z,2021-12-12T00:00:00Z,GER,Magdeburg,Open,SW
-2735,29th Easter International Swimming Meeting,2022,4,2022-04-21T00:00:00Z,2022-04-23T00:00:00Z,MLT,Gzira,Open,SW
+2735,29th Easter International Swim Meet,2022,4,2022-04-21T00:00:00Z,2022-04-23T00:00:00Z,MLT,Gzira,Open,SW
 2740,TSA-AIMG Swim Trials #3,2021,10,2021-10-22T00:00:00Z,2021-10-24T00:00:00Z,THA,Samutr Prakarn,Open,SW
 2750,15th Gyor Open,2021,12,2021-12-15T00:00:00Z,2021-12-18T00:00:00Z,HUN,Gyor,Open,SW
 2751,1st Cup of Modern Cities,2021,11,2021-11-20T00:00:00Z,2021-11-21T00:00:00Z,HUN,Szeged,Open,SW
@@ -2666,7 +2705,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2804,Peruvian National Age Group Championships,2021,12,2021-12-09T00:00:00Z,2021-12-12T00:00:00Z,PER,Lima,Open,SW
 2811,Mel Zajac Jr. International 2022,2022,6,2022-06-03T00:00:00Z,2022-06-05T00:00:00Z,CAN,Vancouver,Open,SW
 2814,64th Malaysia Open Swimming Championships 2022,2022,3,2022-03-03T00:00:00Z,2022-03-06T00:00:00Z,MAS,Kuala Lumpur,Open,SW
-2815,Campeonato Nacional 1ra Etapa  - Open Internacional,2022,3,2022-03-23T00:00:00Z,2022-03-26T00:00:00Z,PAR,Asuncion,Open,SW
+2815,National Championships #1 - International Open,2022,3,2022-03-23T00:00:00Z,2022-03-26T00:00:00Z,PAR,Asuncion,Open,SW
 2816,"HPS HEP Grand Prix ""Victoria""",2022,3,2022-03-19T00:00:00Z,2022-03-20T00:00:00Z,CRO,Rijeka,Open,SW
 2817,NSW Open State Championships 2022,2022,3,2022-03-04T00:00:00Z,2022-03-06T00:00:00Z,AUS,Sydney,Open,SW
 2818,HEP International Swim Meet,2022,3,2022-03-03T00:00:00Z,2022-03-06T00:00:00Z,CRO,Zagreb,Open,SW
@@ -2711,10 +2750,10 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2885,Bulgarian Open Team Championships,2022,4,2022-04-15T00:00:00Z,2022-04-17T00:00:00Z,BUL,Sofia,Open,SW
 2890,Meeting International FFN - Golden Tour 2,2022,3,2022-03-04T00:00:00Z,2022-03-06T00:00:00Z,FRA,Marseille,Open,SW
 2892,Meeting International FFN - Golden Tour 1,2022,2,2022-02-04T00:00:00Z,2022-02-06T00:00:00Z,FRA,Nice,Open,SW
-2898,Simmis Uinnit,2022,4,2022-04-15T00:00:00Z,2022-04-15T00:00:00Z,FIN,Helsinki,Open,SW
+2898,Simmis Meet,2022,4,2022-04-15T00:00:00Z,2022-04-15T00:00:00Z,FIN,Helsinki,Open,SW
 2899,Helsinki Swim Meet,2022,4,2022-04-05T00:00:00Z,2022-04-06T00:00:00Z,FIN,Helsinki,Open,SW
-2900,Manse Uinnit,2022,3,2022-03-12T00:00:00Z,2022-03-12T00:00:00Z,FIN,Tampere,Open,SW
-2901,Oskarin Uinnit,2022,3,2022-03-19T00:00:00Z,2022-03-20T00:00:00Z,FIN,Jyvaskyla,Open,SW
+2900,Manse Meet,2022,3,2022-03-12T00:00:00Z,2022-03-12T00:00:00Z,FIN,Tampere,Open,SW
+2901,Oskarin Meet,2022,3,2022-03-19T00:00:00Z,2022-03-20T00:00:00Z,FIN,Jyvaskyla,Open,SW
 2903,Orca Cup 2022,2022,4,2022-04-29T00:00:00Z,2022-05-01T00:00:00Z,SVK,Bratislava,Open,SW
 2905,Jarna cena Ziliny,2022,3,2022-03-18T00:00:00Z,2022-03-20T00:00:00Z,SVK,Zilina,Open,SW
 2911,3rd Cup of Modern Cities,2022,3,2022-03-11T00:00:00Z,2022-03-13T00:00:00Z,HUN,Szeged,Open,SW
@@ -2728,8 +2767,8 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2930,Selectivo Unico Cancun 2022,2022,4,2022-04-07T00:00:00Z,2022-04-10T00:00:00Z,MEX,Cancun,Open,SW
 2931,Kazakhstan Open Swimming Championships 2022,2022,3,2022-03-30T00:00:00Z,2022-04-02T00:00:00Z,KAZ,Aktobe,Open,SW
 2932,35th International Trophy Villa de Gijon,2022,5,2022-05-14T00:00:00Z,2022-05-15T00:00:00Z,ESP,Gijon,Open,SW
-2934,Campeonato Metropolitano Open,2022,5,2022-05-06T00:00:00Z,2022-05-07T00:00:00Z,ARG,Buenos Aires,Open,SW
-2935,Campeonato Nacional de Clubes 1e Divisao,2022,4,2022-04-09T00:00:00Z,2022-04-10T00:00:00Z,POR,Jamor,Open,SW
+2934,Senior Metropolitan Autumn Winter Championships 2022,2022,5,2022-05-06T00:00:00Z,2022-05-07T00:00:00Z,ARG,Buenos Aires,Open,SW
+2935,National Clubs Championships #1,2022,4,2022-04-09T00:00:00Z,2022-04-10T00:00:00Z,POR,Jamor,Open,SW
 2937,Puerto Rico Swimming Open,2022,4,2022-04-21T00:00:00Z,2022-04-24T00:00:00Z,PUR,Salinas,Open,SW
 2938,Turkish Turkcell National Team Selection Meet (50m),2022,4,2022-04-14T00:00:00Z,2022-04-17T00:00:00Z,TUR,Istanbul,Open,SW
 2960,Swimming Selections - May 2022,2022,5,2022-05-07T00:00:00Z,2022-05-08T00:00:00Z,SRI,Colombo,Open,SW
@@ -2745,13 +2784,13 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2991,Jose Finkel Trophy 2022,2022,9,2022-09-13T00:00:00Z,2022-09-17T00:00:00Z,BRA,Recife,Open,SW
 2996,Israel Open Summer Championships,2022,7,2022-07-26T00:00:00Z,2022-07-30T00:00:00Z,ISR,Netanya,Open,SW
 2997,Swedish Grand Prix 2,2022,10,2022-10-28T00:00:00Z,2022-10-30T00:00:00Z,SWE,Ystad,Open,SW
-3002,Argentina Open National Championships,2022,8,2022-08-03T00:00:00Z,2022-08-06T00:00:00Z,ARG,Buenos Aires,Open,SW
+3002,Argentinian Open Championships,2022,8,2022-08-03T00:00:00Z,2022-08-06T00:00:00Z,ARG,Buenos Aires,Open,SW
 3003,2022 Speedo Junior & Senior Championships,2022,7,2022-07-25T00:00:00Z,2022-08-01T00:00:00Z,CAN,Montreal,Open,SW
 3008,National Presidential Cup Age Group Swimming Championships 2022,2022,8,2022-08-27T00:00:00Z,2022-08-31T00:00:00Z,TPE,Taichung,Open,SW
 3010,Hong Kong Open Swimming Championships 2022 (50m),2022,8,2022-08-19T00:00:00Z,2022-08-21T00:00:00Z,HKG,Hong Kong,Open,SW
 3013,North Sea Swim Meet 2022,2022,10,2022-10-28T00:00:00Z,2022-10-30T00:00:00Z,NOR,Stavanger,Open,SW
 3014,Campeonato Internacional Interclubes,2022,10,2022-10-27T00:00:00Z,2022-10-30T00:00:00Z,COL,Cali,Open,SW
-3016,30th International Meeting of St Dizier,2022,10,2022-10-21T00:00:00Z,2022-10-23T00:00:00Z,FRA,St Dizier,Open,SW
+3016,30th International Meeting of Saint-Dizier,2022,10,2022-10-21T00:00:00Z,2022-10-23T00:00:00Z,FRA,Saint-Dizier,Open,SW
 3017,53rd Anniversary FENABA,2022,10,2022-10-20T00:00:00Z,2022-10-22T00:00:00Z,ARG,Buenos Aires,Open,SW
 3018,Lambertseter Open 2022,2022,9,2022-09-23T00:00:00Z,2022-09-25T00:00:00Z,NOR,Oslo,Open,SW
 3019,2nd Albion Open,2022,9,2022-09-17T00:00:00Z,2022-09-17T00:00:00Z,NED,Rotterdam,Open,SW
@@ -2790,18 +2829,18 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3076,2os Agonas Epidoseon - Athens (25m) - Group D,2022,11,2022-11-05T00:00:00Z,2022-11-06T00:00:00Z,GRE,Athens,Open,SW
 3077,2os Agonas Epidoseon - Thessaloniki (25m) - Group B,2022,11,2022-11-05T00:00:00Z,2022-11-06T00:00:00Z,GRE,Thessdaloniki,Open,SW
 3081,Japan Open 2022 (50m),2022,12,2022-12-01T00:00:00Z,2022-12-04T00:00:00Z,JPN,Tokyo,Open,SW
-3082,Campeonato Nacional 3ra Etapa - Open Internacional,2022,12,2022-12-14T00:00:00Z,2022-12-17T00:00:00Z,PAR,Asuncion,Open,SW
+3082,National Championships #3 - International Open,2022,12,2022-12-14T00:00:00Z,2022-12-17T00:00:00Z,PAR,Asuncion,Open,SW
 3083,McDonald's Queensland Championships 2022,2022,12,2022-12-11T00:00:00Z,2022-12-13T00:00:00Z,AUS,Brisbane,Open,SW
 3087,Turkish Turkcell National Team Selection Meet (50m),2022,12,2022-12-22T00:00:00Z,2022-12-23T00:00:00Z,TUR,Istanbul,Open,SW
 3088,Coimbra Swimming Open,2022,12,2022-12-17T00:00:00Z,2022-12-18T00:00:00Z,POR,Coimbra,Open,SW
-3089,Sopron Open Olympic Qualification Event,2022,12,2022-12-14T00:00:00Z,2022-12-17T00:00:00Z,HUN,Sopron,Open,SW
+3089,Sopron Open FINA Qualifying Event,2022,12,2022-12-14T00:00:00Z,2022-12-17T00:00:00Z,HUN,Sopron,Open,SW
 3090,20th Meeting del Titano,2023,2,2023-02-25T00:00:00Z,2023-02-26T00:00:00Z,SMR,Serravalle,Open,SW
 3091,Reykjavík International 2023,2023,1,2023-01-27T00:00:00Z,2023-01-29T00:00:00Z,ISL,Reykjavik,Open,SW
 3093,ASAJ Christmas Open,2022,12,2022-12-17T00:00:00Z,2022-12-20T00:00:00Z,JAM,Kingston,Open,SW
 3096,Vienna International Swim Meet,2023,4,2023-04-27T00:00:00Z,2023-04-30T00:00:00Z,AUT,Vienna,Open,SW
 3097,ATUS Trophy 2023,2023,4,2023-04-20T00:00:00Z,2023-04-23T00:00:00Z,AUT,Graz,Open,SW
 3098,AP Race International London 2023,2023,5,2023-05-27T00:00:00Z,2023-05-29T00:00:00Z,GBR,London,Open,SW
-3099,30th Easter International Swimming Meeting,2023,4,2023-04-13T00:00:00Z,2023-04-15T00:00:00Z,MLT,Gzira,Open,SW
+3099,30th Easter International Swim Meet,2023,4,2023-04-13T00:00:00Z,2023-04-15T00:00:00Z,MLT,Gzira,Open,SW
 3102,IM50 2023,2023,4,2023-04-01T00:00:00Z,2023-04-03T00:00:00Z,ISL,Reykjavik,Open,SW
 3103,Edinburgh International Swim Meet,2023,3,2023-03-10T00:00:00Z,2023-03-12T00:00:00Z,GBR,Edinburgh,Open,SW
 3104,8th Dominican Republic International Swim Open 2023,2023,3,2023-03-31T00:00:00Z,2023-04-02T00:00:00Z,DOM,Santo Domingo,Open,SW
@@ -2818,14 +2857,14 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3127,98th Latvian Championship,2023,2,2023-02-24T00:00:00Z,2023-02-26T00:00:00Z,LAT,Riga,Open,SW
 3128,Grand Prix Burgas 2023,2023,5,2023-05-19T00:00:00Z,2023-05-21T00:00:00Z,BUL,Burgas,Open,SW
 3129,Diddelenger Schwammfest 2023,2023,4,2023-04-29T00:00:00Z,2023-04-30T00:00:00Z,LUX,Luxembourg,Open,SW
-3131,Bulgarian Open Team Championships,2023,4,2023-04-07T00:00:00Z,2023-04-07T00:00:00Z,BUL,Sofia,Open,SW
+3131,Bulgarian Team Championships,2023,4,2023-04-07T00:00:00Z,2023-04-09T00:00:00Z,BUL,Sofia,Open,SW
 3132,CIJ Meet LUX 2023,2023,3,2023-03-10T00:00:00Z,2023-03-12T00:00:00Z,LUX,Luxembourg,Open,SW
 3134,65th Malaysia Open Swimming Championships 2023,2023,3,2023-03-11T00:00:00Z,2023-03-14T00:00:00Z,MAS,Kuala Lumpur,Open,SW
 3135,Turkish Turkcell Open National Team Selection Meet (50m),2023,4,2023-04-27T00:00:00Z,2023-04-30T00:00:00Z,TUR,Edirne,Open,SW
-3137,4th International Turkcell Edirne Cup,2023,3,2023-03-17T00:00:00Z,2023-03-19T00:00:00Z,TUR,Edirne,Open,SW
+3137,4th International Edirne Cup,2023,3,2023-03-17T00:00:00Z,2023-03-19T00:00:00Z,TUR,Edirne,Open,SW
 3138,Serbian Open 2023,2023,3,2023-03-10T00:00:00Z,2023-03-12T00:00:00Z,SRB,Belgrade,Open,SW
 3139,Flemish Championships 2023,2023,2,2023-02-10T00:00:00Z,2023-02-12T00:00:00Z,BEL,Antwerp,Open,SW
-3140,Speedo-FFBN Open Championships 2023,2023,2,2023-02-04T00:00:00Z,2023-02-05T00:00:00Z,BEL,Charleroi,Open,SW
+3140,FFBN Open Championships 2023,2023,2,2023-02-04T00:00:00Z,2023-02-05T00:00:00Z,BEL,Charleroi,Open,SW
 3141,Flanders Swimming Cup 2023,2023,1,2023-01-21T00:00:00Z,2023-01-22T00:00:00Z,BEL,Antwerp,Open,SW
 3142,Open Belgian Championships (50m),2023,4,2023-04-21T00:00:00Z,2023-04-23T00:00:00Z,BEL,Antwerp,Open,SW
 3143,Antwerp Diamond Speedo Race,2023,3,2023-03-25T00:00:00Z,2023-03-26T00:00:00Z,BEL,Antwerp,Open,SW
@@ -2836,14 +2875,14 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3152,Grand Prix Pardubice,2023,5,2023-05-12T00:00:00Z,2023-05-14T00:00:00Z,CZE,Pardubice,Open,SW
 3154,Grand Prix Ostrava,2023,4,2023-04-14T00:00:00Z,2023-04-16T00:00:00Z,CZE,Ostrava,Open,SW
 3155,Malmsten Swim Open Stockholm 2023,2023,4,2023-04-13T00:00:00Z,2023-04-16T00:00:00Z,SWE,Stockholm,Open,SW
-3157,Linkoping Water Games,2023,3,2023-03-24T00:00:00Z,2023-03-26T00:00:00Z,SWE,Linkoping,Open,SW
+3157,Linkoping Water Games / CANCELLED,2023,3,2023-03-24T00:00:00Z,2023-03-26T00:00:00Z,SWE,Linkoping,Open,SW
 3159,Swedish Grand Prix 2023,2023,3,2023-03-10T00:00:00Z,2023-03-12T00:00:00Z,SWE,Kungsbacka,Open,SW
 3160,NSW State Open Championships 2023,2023,3,2023-03-10T00:00:00Z,2023-03-12T00:00:00Z,AUS,Sydney,Open,SW
 3161,Victorian Open Championships 2023,2023,2,2023-02-17T00:00:00Z,2023-02-19T00:00:00Z,AUS,Melbourne,Open,SW
 3162,SA State Open/MC Championships 2023,2023,1,2023-01-20T00:00:00Z,2023-01-22T00:00:00Z,AUS,Oaklands Park,Open,SW
 3163,Q!-Cup,2023,4,2023-04-15T00:00:00Z,2023-04-16T00:00:00Z,GER,Heidelberg,Open,SW
 3164,32nd International Gothaer & Friend Meet,2023,3,2023-03-31T00:00:00Z,2023-04-02T00:00:00Z,GER,Magedburg,Open,SW
-3165,Berlin Swim Open 2023,2023,4,2023-04-21T00:00:00Z,2023-04-23T00:00:00Z,GER,Heidelberg,Open,SW
+3165,Berlin Swim Open 2023,2023,4,2023-04-21T00:00:00Z,2023-04-23T00:00:00Z,GER,Berlin,Open,SW
 3169,Irish Open Championships 2023,2023,4,2023-04-01T00:00:00Z,2023-04-05T00:00:00Z,IRL,Dublin,Open,SW
 3174,50th International Swimming Meet Ravne 2023,2023,6,2023-06-03T00:00:00Z,2023-06-04T00:00:00Z,SLO,Ravne na Koroskem,Open,SW
 3175,Grand Prix of Kranj 2023,2023,5,2023-05-27T00:00:00Z,2023-05-28T00:00:00Z,SLO,Kranj,Open,SW
@@ -2860,6 +2899,45 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3191,Emek Hefer Championships 2023,2023,3,2023-03-24T00:00:00Z,2023-03-25T00:00:00Z,ISR,Netanya,Open,SW
 3192,South Africa Grand Prix 2023,2023,3,2023-03-03T00:00:00Z,2023-03-05T00:00:00Z,RSA,Durban,Open,SW
 3193,CANA Grand Prix 2023,2023,1,2023-01-28T00:00:00Z,2023-01-28T00:00:00Z,RSA,Mbombela,Open,SW
+3198,French Elite Championships 11-16.06.2023,2023,6,2023-06-11T00:00:00Z,2023-06-11T00:00:00Z,FRA,Rennes,Open,SW
+3202,Giant Open Final (50m),2023,3,2023-03-18T00:00:00Z,2023-03-19T00:00:00Z,FRA,Saint Germain en Laye,Open,SW
+3203,Giant Open 2nd Event (50m),2023,3,2023-03-15T00:00:00Z,2023-03-16T00:00:00Z,FRA,Nice,Open,SW
+3204,Giant Open 1st Event (50m),2023,3,2023-03-11T00:00:00Z,2023-03-12T00:00:00Z,FRA,Marseille,Open,SW
+3206,Speedo Helsinki Swim Meet,2023,4,2023-04-08T00:00:00Z,2023-04-09T00:00:00Z,FIN,Helsinki,Open,SW
+3207,Matti Mattsson Meet,2023,3,2023-03-25T00:00:00Z,2023-03-25T00:00:00Z,FIN,Pori,Open,SW
+3209,Oulun Meet 2023,2023,2,2023-02-25T00:00:00Z,2023-02-26T00:00:00Z,FIN,Oulu,Open,SW
+3210,Oskarin Meet,2023,2,2023-02-11T00:00:00Z,2023-02-11T00:00:00Z,FIN,Jyvaskyla,Open,SW
+3211,Finnish Championships,2023,2,2023-02-04T00:00:00Z,2023-02-05T00:00:00Z,FIN,Vaasa,Open,SW
+3213,Qualifying Event,2023,6,2023-06-07T00:00:00Z,2023-06-10T00:00:00Z,HUN,Sopron,Open,SW
+3214,Marsky Meet 2023,2023,5,2023-05-27T00:00:00Z,2023-05-27T00:00:00Z,FIN,Helsinki,Open,SW
+3215,Lohi Meet,2023,5,2023-05-27T00:00:00Z,2023-05-28T00:00:00Z,FIN,Oulu,Open,SW
+3216,Laviaarit,2023,5,2023-05-13T00:00:00Z,2023-05-14T00:00:00Z,FIN,Espoo,Open,SW
+3217,Tampere Open,2023,5,2023-05-06T00:00:00Z,2023-05-07T00:00:00Z,FIN,Tampere,Open,SW
+3218,Oskareiden Jatkot,2023,4,2023-04-22T00:00:00Z,2023-04-22T00:00:00Z,FIN,Jyvaskyla,Open,SW
+3220,Grand Prix Slovakia,2023,5,2023-05-26T00:00:00Z,2023-05-28T00:00:00Z,SVK,Samorin/Bratislava,Open,SW
+3221,Orca Cup 2023,2023,5,2023-05-05T00:00:00Z,2023-05-07T00:00:00Z,SVK,Bratislava,Open,SW
+3223,Spring Prix of Zilina,2023,3,2023-03-17T00:00:00Z,2023-03-19T00:00:00Z,SVK,Zilina,Open,SW
+3231,National Championships #1 - International Open,2023,3,2023-03-15T00:00:00Z,2023-03-18T00:00:00Z,PAR,Asuncion,Open,SW
+3232,Grand Prix SYC 2023,2023,5,2023-05-25T00:00:00Z,2023-05-27T00:00:00Z,PAR,Asuncion,Open,SW
+3234,Arena Lisbon International Meet 2023,2023,2,2023-02-11T00:00:00Z,2023-02-12T00:00:00Z,POR,Lisbon,Open,SW
+3235,14th Povoa de Varzim International Meet,2023,2,2023-02-04T00:00:00Z,2023-02-05T00:00:00Z,POR,Povoa de Varzim,Open,SW
+3236,38th Porto International Meet,2023,6,2023-06-10T00:00:00Z,2023-06-11T00:00:00Z,POR,Porto,Open,SW
+3237,National Clubs Championships #1,2023,4,2023-04-06T00:00:00Z,2023-04-07T00:00:00Z,POR,Lisbon,Open,SW
+3241,Bulgarian Open Championships,2023,6,2023-06-29T00:00:00Z,2023-07-02T00:00:00Z,BUL,Sofia,Open,SW
+3245,Bergen Swim Festival 2023,2023,4,2023-04-21T00:00:00Z,2023-04-23T00:00:00Z,NOR,Bergen,Open,SW
+3246,Speedo Canadian Championships 2023,2023,8,2023-08-01T00:00:00Z,2023-08-06T00:00:00Z,CAN,Toronto,Open,SW
+3247,Swiss Summer Championships (50m),2023,7,2023-07-13T00:00:00Z,2023-07-16T00:00:00Z,SUI,Sursee,Open,SW
+3253,National Open Championships,2023,5,2023-05-03T00:00:00Z,2023-05-06T00:00:00Z,VEN,Caracas,Open,SW
+3254,76th Senior National Aquatic Championships,2023,7,2023-07-02T00:00:00Z,2023-07-05T00:00:00Z,IND,Bhopal,Open,SW
+3257,Mediterranean Swimming Cup 2023,2023,6,2023-06-16T00:00:00Z,2023-06-18T00:00:00Z,GRE,Larissa,Open,SW
+3260,Uzbekistan Open Swimming Championships,2023,4,2023-04-18T00:00:00Z,2023-04-22T00:00:00Z,UZB,Tashkent,Open,SW
+3265,League nr.4 for Adults,2023,6,2023-06-30T00:00:00Z,2023-07-01T00:00:00Z,ISR,Netanya,Open,SW
+3270,PanAm Qualifier 2023,2023,5,2023-05-03T00:00:00Z,2023-05-07T00:00:00Z,PER,Lima,Open,SW
+3280,Romanian Cup,2023,6,2023-06-02T00:00:00Z,2023-06-04T00:00:00Z,ROU,Otopeni,Open,SW
+3281,15th Coimbra Meet,2023,5,2023-05-27T00:00:00Z,2023-05-28T00:00:00Z,POR,Coimbra,Open,SW
+3287,Brazil Trophy 2023,2023,5,2023-05-30T00:00:00Z,2023-06-03T00:00:00Z,BRA,Recife,Open,SW
+3290,Madwave Challenge (50m) 2023,2023,4,2023-04-15T00:00:00Z,2023-04-16T00:00:00Z,EST,Tartu,Open,SW
+3292,Belgrade Trophy 2023,2023,6,2023-06-03T00:00:00Z,2023-06-04T00:00:00Z,SRB,Belgrade,Open,SW
 1420,TYR Pro Swim Series San Antonio 2021,2021,1,2021-01-14T00:00:00Z,2021-01-17T00:00:00Z,USA,San Antonio,Pro Series,SW
 1421,TYR Pro Swim Series Richmond 2021,2021,1,2021-01-14T00:00:00Z,2021-01-17T00:00:00Z,USA,Richmond,Pro Series,SW
 1678,TYR Pro Swim Series Des Moines 2020,2020,3,2020-03-04T00:00:00Z,2020-03-07T00:00:00Z,USA,Des Moines,Pro Series,SW
@@ -2942,7 +3020,7 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 1517,Hamilton Qualification Meet,2021,5,2021-05-29T00:00:00Z,2021-05-30T00:00:00Z,NZL,Hamilton,Trial,SW
 1519,Israel National Summer Trial and Championships,2021,6,2021-06-11T00:00:00Z,2021-06-14T00:00:00Z,ISR,Netanya,Trial,SW
 1614,Israel National Winter Trials,2020,12,2020-12-16T00:00:00Z,2020-12-18T00:00:00Z,ISR,Netanya,Trial,SW
-1617,Argentina Tokyo Olympic Games Trials,2020,12,2020-12-16T00:00:00Z,2020-12-19T00:00:00Z,ARG,Buenos Aires,Trial,SW
+1617,Argentinian Tokyo Olympic Games Trials,2020,12,2020-12-16T00:00:00Z,2020-12-19T00:00:00Z,ARG,Buenos Aires,Trial,SW
 1633,Korean National Trials 2020,2020,11,2020-11-17T00:00:00Z,2020-11-20T00:00:00Z,KOR,Gimcheon,Trial,SW
 1634,TSA Swim Trials #1 2020,2020,11,2020-11-14T00:00:00Z,2020-11-15T00:00:00Z,THA,Samut Prakarn,Trial,SW
 1775,Israel Trials,2019,6,2019-06-28T00:00:00Z,2019-06-29T00:00:00Z,ISR,Netanya,Trial,SW
@@ -2979,11 +3057,13 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 2768,Japan Selection Trial for 19th FINA World Championships 2022,2022,3,2022-03-02T00:00:00Z,2022-03-05T00:00:00Z,JPN,Tokyo,Trial,SW
 2808,Phillips 66 International Team Trials 2022,2022,4,2022-04-26T00:00:00Z,2022-04-30T00:00:00Z,USA,Greensboro,Trial,SW
 2844,Korean National Trials 2022,2022,3,2022-03-24T00:00:00Z,2022-03-28T00:00:00Z,KOR,Gimcheon,Trial,SW
-2906,TSA Swim Trials 2022 #1,2022,2,2022-02-26T00:00:00Z,2022-02-27T00:00:00Z,THA,Samutr Prakarn,Trial,SW
-3022,TSA Swim Trials 2022 #2,2022,10,2022-10-29T00:00:00Z,2022-10-30T00:00:00Z,THA,Samutr Prakarn,Trial,SW
-3106,BELL Canadian Swimming Trials 2023,2023,3,2023-03-28T00:00:00Z,2023-04-02T00:00:00Z,CAN,Vancouver,Trial,SW
-3170,Korean National Trials 2023,2023,3,2023-03-25T00:00:00Z,2023-03-29T00:00:00Z,KOR,Gimcheon,Trial,SW
+2906,TSA Swim Trials #1 2022,2022,2,2022-02-26T00:00:00Z,2022-02-27T00:00:00Z,THA,Samutr Prakarn,Trial,SW
+3022,TSA Swim Trials #2 2022,2022,10,2022-10-29T00:00:00Z,2022-10-30T00:00:00Z,THA,Samutr Prakarn,Trial,SW
+3106,Bell Canadian Swimming Trials 2023,2023,3,2023-03-28T00:00:00Z,2023-04-02T00:00:00Z,CAN,Toronto,Trial,SW
+3170,KB Financial Group Korea Swimming Championships (2023 Korean National Trials),2023,3,2023-03-25T00:00:00Z,2023-03-30T00:00:00Z,KOR,Gimcheon,Trial,SW
 3194,Australian Swimming Trials 13-18.06.2023,2023,6,2023-06-11T00:00:00Z,2023-06-11T00:00:00Z,AUS,Melbourne,Trial,SW
+3228,TSA Swim Trials #1 2023,2023,2,2023-02-25T00:00:00Z,2023-02-26T00:00:00Z,THA,Samut Prakan,Trial,SW
+3288,Jose Finkel Trophy and Brazilian Olympic Trials,2023,11,2023-11-01T00:00:00Z,2023-11-05T00:00:00Z,BRA,Recife,Trial,SW
 2747,FINA Diving Team Exhibition,2021,12,2021-12-18T20:00:00Z,2021-12-19T20:00:00Z,UAE,Abu Dhabi,DV Exhibition,DV
 2777,FINA Women’s Water Polo Challengers Cup 2021,2021,11,2021-11-02T05:00:00Z,2021-11-07T05:00:00Z,COL,Barranquilla,Women’s Water Polo Challengers Cup,WP
 35,FINA World Youth Artistic Swimming Championships 2022,2022,8,2022-08-10T05:00:00Z,2022-08-14T05:00:00Z,USA,Charlotte,World Youth Artistic Swimming Championships,SY
@@ -2991,3 +3071,14 @@ comp_id,comp_name,year,month,date_from,date_to,country_code,city,comp_type,disci
 3079,World Aquatics Youth Artistic Swimming Championships - Athens 2023,2023,8,2023-08-29T22:00:00Z,2023-09-02T22:00:00Z,GRE,Athens,World Youth Artistic Swimming Championships,SY
 3007,FINA World Men’s U16 Water Polo Championships 2022,2022,8,2022-08-20T22:00:00Z,2022-08-26T22:00:00Z,GRE,Larisa - Volos,World Men’s U16 Water Polo Championships,WP
 2962,FINA World Women’s U16 Water Polo Championships 2022,2022,8,2022-08-20T22:00:00Z,2022-08-26T22:00:00Z,GRE,Larisa - Volos,World Women’s U16 Water Polo Championships,WP
+3263,World Aquatics Beach Games Beach Water Polo Qualification Tournament - Soma Bay 2023,2023,5,2023-05-11T22:00:00Z,2023-05-14T22:00:00Z,EGY,Soma Bay,Beach Water Polo Beach Games Qualification Tournament,WP
+3273,"Men's Water Polo World Cup, Division 2 – Berlin (GER)",2023,4,2023-04-30T23:00:00Z,2023-05-06T23:00:00Z,GER,Berlin,Men’s Water Polo World Cup,WP
+3274,Men’s Water Polo World Cup Final – Los Angeles (USA),2023,6,2023-06-30T08:00:00Z,2023-07-02T08:00:00Z,USA,Los Angeles,Men’s Water Polo World Cup,WP
+3283,"Men's Water Polo World Cup, Division 1",2023,3,2023-03-07T23:00:00Z,2023-03-13T23:00:00Z,,,Men’s Water Polo World Cup,WP
+3275,"Women’s Water Polo World Cup, Division 1",2023,4,2023-04-18T22:00:00Z,2023-04-20T22:00:00Z,GRE,Athens,Women’s Water Polo World Cup,WP
+3276,"Women’s Water Polo World Cup, Division 1",2023,4,2023-04-10T23:00:00Z,2023-04-12T23:00:00Z,NED,Rotterdam,Women’s Water Polo World Cup,WP
+3277,"Women's Water Polo World Cup, Division 2 – Berlin (GER)",2023,4,2023-04-30T23:00:00Z,2023-05-06T23:00:00Z,GER,Berlin,Women’s Water Polo World Cup,WP
+3278,Women’s Water Polo World Cup Final – Long Beach (USA),2023,6,2023-06-23T08:00:00Z,2023-06-25T08:00:00Z,USA,Long Beach,Women’s Water Polo World Cup,WP
+3267,World Aquatics Diving World Cup - Xi'an 2023,2023,4,2023-04-13T16:00:00Z,2023-04-15T16:00:00Z,CHN,Xi'an,Diving World Cup,DV
+3268,World Aquatics Diving World Cup - Montreal 2023,2023,5,2023-05-05T05:00:00Z,2023-05-07T05:00:00Z,CAN,Montreal,Diving World Cup,DV
+3269,World Aquatics Diving World Cup - Berlin 2023 - Super Final,2023,8,2023-08-03T23:00:00Z,2023-08-05T23:00:00Z,GER,Berlin,Diving World Cup,DV

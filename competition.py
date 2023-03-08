@@ -31,7 +31,7 @@ HEADERS = [
 ]
 
 
-def get_number_of_pages() -> int:
+def get_number_of_pages(session: requests.Session) -> int:
     """Gets the number of pages of competition summary data on the FINA API.
 
     Returns:
@@ -60,7 +60,9 @@ def decode_json_response(response: Response) -> dict:
         raise
 
 
-def get_competitions_summary_data(page_number: int) -> Response:
+def get_competitions_summary_data(
+    session: requests.Session, page_number: int
+) -> Response:
     """Gets the summary data for competitions on the given page of the FINA API.
 
     Args:
@@ -71,7 +73,7 @@ def get_competitions_summary_data(page_number: int) -> Response:
         A requests Response object containing competitions summary data.
     """
     url = f"https://api.fina.org/fina/competitions?page={page_number}&pageSize=100"
-    return requests.get(url)
+    return session.get(url)
 
 
 def parse_competitions_summary_data(comps_summary: dict) -> list[tuple[Any, ...]]:
@@ -154,15 +156,15 @@ def check_for_errors(resp, *args, **kwargs):
     resp.raise_for_status()
 
 
-if __name__ == "__main__":
+def main() -> None:
     session = requests.Session()
     session.hooks["response"] = [check_for_errors]
 
     comps_data_list = []
 
-    number_of_pages = get_number_of_pages()
+    number_of_pages = get_number_of_pages(session)
     for page in range(number_of_pages + 1):
-        comps_summary_data_response = get_competitions_summary_data(page)
+        comps_summary_data_response = get_competitions_summary_data(session, page)
         comps_summary_data_dict = decode_json_response(comps_summary_data_response)
         partial_comps_data_list = parse_competitions_summary_data(
             comps_summary_data_dict
@@ -170,3 +172,7 @@ if __name__ == "__main__":
         comps_data_list.extend(partial_comps_data_list)
 
     create_csv(comps_data_list, HEADERS)
+
+
+if __name__ == "__main__":
+    main()
