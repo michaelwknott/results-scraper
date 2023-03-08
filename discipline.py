@@ -70,7 +70,7 @@ def get_discipline_data(discipline_id: str) -> Response:
     return requests.get(url)
 
 
-if __name__ == "__main__":
+def main() -> None:
     comp_response = get_individual_competition_summary_data(5)
     comp_data = decode_json_response(comp_response)
     discipline_names_ids = parse_discipline_names_and_ids(comp_data)
@@ -79,3 +79,7 @@ if __name__ == "__main__":
     women_50m_freestyle_data = decode_json_response(women_50m_freestyle_response)
 
     print(women_50m_freestyle_data)
+
+
+if __name__ == "__main__":
+    main()
